@@ -5,7 +5,9 @@
 
 <div class="min-h-screen flex flex-col bg-stone-900 text-white/90 bg-cover bg-[url('/img/home-bg.jpg')]">
   <nav class="mx-auto px-4 my-8 flex flex-wrap gap-2">
-    <a class="px-4 py-2 bg-orange-500 font-bold mr-8 hidden lg:inline-block" href="/">INFI</a>
+    <a class="p-1 bg-orange-500 font-bold mr-8 hidden lg:inline-block" href="/">
+      <img src="img/logo.png" alt="logo van Infi" class="h-[32px]" /></a
+    >
     <NavItem href="/">HOME</NavItem>
     <NavItem href="/aanmelden">AANMELDEN</NavItem>
     <!-- <NavItem href="/2024/programma">PROGRAMMA</NavItem> -->

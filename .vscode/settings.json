@@ -7,5 +7,5 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "cSpell.language": "en,nl",
-  "cSpell.words": ["Après", "clazz", "CON", "Felienne", "Vaartsche"]
+  "cSpell.words": ["Après", "clazz", "CON", "Felienne", "TLDR", "Vaartsche"]
 }

@@ -12,7 +12,7 @@ export default {
         DEFAULT: {
           css: {
             a: {
-              color: theme('colors.orange[800]'),
+              color: theme('colors.orange[700]'),
               '&:hover': {
                 color: theme('colors.orange[500]'),
               },

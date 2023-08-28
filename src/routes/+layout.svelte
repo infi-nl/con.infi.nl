@@ -17,11 +17,13 @@
 
   <slot />
 
-  <footer class="mt-auto py-8 bg-gradient-to-r from-neutral-900 to-neutral-800 shadow-inner">
-    <div class="mx-auto max-w-[1024px] px-8">
-      <a class="hover:text-orange-500 hover:opacity-100 opacity-60" href="https://infi.nl">infi.nl</a>
-      |
-      <a class="hover:text-orange-500 hover:opacity-100 opacity-60" href="mailto:community@infi.nl">community@infi.nl</a>
+  <footer class="mt-auto">
+    <div class="mt-8 py-8 bg-gradient-to-r from-neutral-900 to-neutral-800 shadow-inner">
+      <div class="mx-auto max-w-[1024px] px-8">
+        <a class="hover:text-orange-500 hover:opacity-100 opacity-60" href="https://infi.nl">infi.nl</a>
+        |
+        <a class="hover:text-orange-500 hover:opacity-100 opacity-60" href="mailto:community@infi.nl">community@infi.nl</a>
+      </div>
     </div>
   </footer>
 </div>

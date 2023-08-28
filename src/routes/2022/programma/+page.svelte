@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import SimplePageContent from '$lib/components/SimplePageContent.svelte';
   import SimplePageHeader from '$lib/components/SimplePageHeader.svelte';
 </script>
@@ -19,7 +19,7 @@
     leert en denkt over code.
   </p>
 
-  <h2>Donderdag 20 oktober 2022, 12:30 – 17:00 @ Infi Utrecht</h2>
+  <h2>Donderdag 20 oktober 2022, 12:30 - 17:00 @ Infi Utrecht</h2>
   <ul>
     <li>12:30 - 13:00 Inloop, met koffie, thee, fris en wat lichte (o.a. vegan) snacks</li>
     <li>

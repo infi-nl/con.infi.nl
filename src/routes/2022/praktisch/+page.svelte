@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import SimplePageContent from '$lib/components/SimplePageContent.svelte';
   import SimplePageHeader from '$lib/components/SimplePageHeader.svelte';
 </script>

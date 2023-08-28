@@ -2,9 +2,9 @@
   import Socials from '$lib/components/Socials.svelte';
 </script>
 
-<div class="mx-auto mb-16 max-w-[1024px] mt-16">
-  <div class="mx-4 text-center p-8 rounded-2xl bg-white/80 text-stone-800">
-    <article class="prose max-w-none">
+<div class="mx-auto mb-16 max-w-[1024px] mt-4 lg:mt-16">
+  <div class="mx-4 p-4 lg:p-8 lg:px-32 rounded-2xl bg-white/80 text-stone-800">
+    <article class="prose lg:prose-lg max-w-[80ch] text-center">
       <h1>Infi-Con</h1>
 
       <p>

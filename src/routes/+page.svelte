@@ -4,7 +4,7 @@
       <h1>Infi-Con: 20 oktober 2022</h1>
 
       <p>
-        Nadat we in 2021 onverhoopt Infi-Con moesten cancellen als gevolg van COVID-19 zijn we dit jaar op donderdag 20 oktober terug met
+        Nadat we in 2021 onverhoopt Infi-Con moesten annuleren als gevolg van COVID-19 zijn we dit jaar op donderdag 20 oktober terug met
         een nieuwe editie (in Utrecht). Het thema is “boeken” en we zijn ontzettend enthousiast dat Felienne Hermans als keynote spreker
         iets komt vertellen over haar boek “The Programmer's Brain”.
       </p>

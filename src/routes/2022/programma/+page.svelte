@@ -52,6 +52,6 @@
   <hr />
 
   <p>
-    PS. Mocht je dat zoeken, er is <a href="https://con.infi.nl/edities/">een aparte pagina over voorgaande edities</a>.
+    PS. Mocht je dat zoeken, er is <a href="/edities">een aparte pagina over voorgaande edities</a>.
   </p>
 </SimplePageContent>

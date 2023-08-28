@@ -1,5 +1,5 @@
 <ul>
-  <li><a href="https://infi.nl/blog">Ons blog (heeft een RSS feed)</a></li>
+  <li><a href="https://infi.nl/blog">Ons blog (met RSS feed)</a></li>
   <li><a href="https://mastodon.social/@infinl@mastodon.nl">Mastodon</a></li>
   <li><a href="https://twitter.com/infinl">X / Twitter</a></li>
   <li><a href="https://www.linkedin.com/company/infi">LinkedIn</a></li>

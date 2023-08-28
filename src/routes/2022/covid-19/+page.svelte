@@ -1,6 +1,6 @@
 <script>
-	import SimplePageContent from '$lib/componentes/SimplePageContent.svelte';
-	import SimplePageHeader from '$lib/componentes/SimplePageHeader.svelte';
+	import SimplePageContent from '$lib/components/SimplePageContent.svelte';
+	import SimplePageHeader from '$lib/components/SimplePageHeader.svelte';
 </script>
 
 <SimplePageHeader>COVID-19</SimplePageHeader>

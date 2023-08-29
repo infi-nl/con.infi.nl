@@ -1,0 +1,17 @@
+<script lang="ts">
+  export let href: string;
+  export let clazz: string = '';
+</script>
+
+<a
+  class={`
+    inline-block py-1 px-4 mb-1 text-base
+    bg-gradient-to-b from-slate-500 to-slate-600 
+    hover:from-slate-700 hover:to-slate-700 
+    text-white no-underline
+    ${clazz}
+  `}
+  {href}
+>
+  <slot />
+</a>

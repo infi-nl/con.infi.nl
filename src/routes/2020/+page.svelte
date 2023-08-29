@@ -16,7 +16,9 @@
       <ul>
         <li><a href="/2020/programma">Programma van 2020 terugkijken</a></li>
         <li><a href="https://infi.nl/nieuws/infi-con-2020-wrap-up/">Blogpost: Infi-Con 2020 Wrap-up</a></li>
-        <li><a href="/2020">YouTube playlist met deel van de talks</a></li>
+        <li>
+          <a href="https://www.youtube.com/playlist?list=PLmKkHHpMpo_js1gwDJgqvNkVUIlONF-uT">YouTube playlist met deel van de talks</a>
+        </li>
       </ul>
     </article>
   </div>

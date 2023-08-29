@@ -14,7 +14,8 @@
       </p>
 
       <p>
-        We hebben wat uitgebreidere geschiedenis over voorgaande edities, maar even in het kort... In 2018 was er een "interne" Infi Con, in
+        We hebben wat uitgebreidere geschiedenis over <a href="/edities">voorgaande edities</a>, maar even in het kort... In 2018 was er een
+        "interne" Infi Con, in
         <a href="/2019">2019</a> en <a href="/2020">2020</a> waren de eerste twee "open" edities. In
         <a href="/2022">2022 was de meest recente editie</a>. En je kunt in de toekomst uiteraard nog nieuwe edities verwachten!
       </p>

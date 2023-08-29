@@ -17,7 +17,9 @@
       <ul>
         <li><a href="/2022/programma">Programma van 2022 terugkijken</a></li>
         <li><a href="https://infi.nl/nieuws/terugblik-op-infi-con-2022/">Blogpost: Terugblik op Infi-Con 2022</a></li>
-        <li><a href="/2022">YouTube playlist met deel van de talks</a></li>
+        <li>
+          <a href="https://www.youtube.com/playlist?list=PLmKkHHpMpo_gfmH1U97UiSwoXvDkX9Zyl">YouTube playlist met deel van de talks</a>
+        </li>
       </ul>
     </article>
   </div>

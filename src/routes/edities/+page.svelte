@@ -7,6 +7,12 @@
 <SimplePageHeader>Edities</SimplePageHeader>
 
 <SimplePageContent>
-  <p>Informatie over eerdere edities:</p>
+  <p>
+    We organiseren Infi-Con wanneer en hoe het goed voelt. Dat maakt dat we een aantal uiteenlopende edities hebben gehad afgelopen jaren.
+  </p>
   <Edities />
+  <p>
+    Op de <a href="/aanmelden">"Aanmelden"</a> pagina vind je ofwel een formulier voor het volgende event... ofwel een manier om op de hoogte
+    te blijven!
+  </p>
 </SimplePageContent>

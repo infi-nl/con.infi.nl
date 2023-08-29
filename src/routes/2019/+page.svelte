@@ -10,7 +10,11 @@
       <ul>
         <li><a href="/2019/programma">Programma van 2019 terugkijken</a></li>
         <li><a href="https://infi.nl/nieuws/infi-con-2019-wrap-up/">Blogpost: Infi-Con 2019 Wrap-up</a></li>
-        <li><a href="/2019">YouTube playlist met deel van de talks</a></li>
+        <li>
+          <a href="https://www.youtube.com/watch?v=KAuXDjtswpM&list=PLmKkHHpMpo_iQa1WDm9jFmtPBLieXeBHL"
+            >YouTube playlist met deel van de talks</a
+          >
+        </li>
       </ul>
     </article>
   </div>

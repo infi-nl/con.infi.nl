@@ -3,7 +3,7 @@
   import '../app.css';
 </script>
 
-<div class="min-h-screen flex flex-col bg-stone-900 text-white/90 bg-top bg-cover bg-[url('/img/home-bg.jpg')]">
+<div class="min-h-screen flex flex-col bg-stone-900 text-white/90 bg-top bg-cover bg-fixed bg-[url('/img/home-bg.jpg')]">
   <header class="bg-black/50 py-4">
     <nav class="mx-auto flex flex-wrap gap-2 justify-center">
       <a class="p-1 bg-orange-500 font-bold mr-8 hidden lg:inline-block" href="/">

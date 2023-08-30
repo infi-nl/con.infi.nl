@@ -36,7 +36,7 @@
 
   <p>
     Als je graag een keer na werktijd wil komen buurten bij Infi, houd dan een oogje op <a
-      href="https://www.meetup.com/Infi-Developers-Meetup/">onze Meetup group</a
+      href="https://www.meetup.com/nl-NL/Infi-Developers-Meetup/">onze Meetup group</a
     >.
   </p>
 

@@ -6,7 +6,7 @@
         Welkom bij de allereerste "Open Source" editie van onze voorheen interne kennisdelingsmiddag. Meerdere praatjes van Infi-collega's,
         aangevuld met een keynote van <strong>Nadieh Bremer</strong>!
       </p>
-      <p>Aanmelden is inmiddels gesloten, en het event is geweest! Nieuwsgierig hoe het was? Hier vind je een en ander terug:</p>
+      <p>Aanmelden is inmiddels gesloten en het event is geweest! Nieuwsgierig hoe het was? Hier vind je een en ander terug:</p>
       <ul>
         <li><a href="/2019/programma">Programma van 2019 terugkijken</a></li>
         <li><a href="https://infi.nl/nieuws/infi-con-2019-wrap-up/">Blogpost: Infi-Con 2019 Wrap-up</a></li>

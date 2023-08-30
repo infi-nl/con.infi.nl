@@ -19,7 +19,7 @@
 
   <h3>Fiets</h3>
   <p>
-    Woon je in Utrecht, en heb je de mogelijkheid, dan raden we je van harte aan met de fiets te komen. Voor ons kantoor staan voldoende
+    Woon je in Utrecht en heb je de mogelijkheid, dan raden we je van harte aan met de fiets te komen. Voor ons kantoor staan voldoende
     fietsenrekken.
   </p>
 
@@ -41,8 +41,8 @@
 
   <h2>Toegankelijkheid</h2>
   <p>
-    Ons kantoor is het oude burgerzaken-kantoor, en heeft features om het toegankelijk te houden. Er is een rolstoellift voor de eerste paar
-    traptredes, en een standaard lift om naar de derde verdieping te komen.
+    Ons kantoor is het oude burgerzaken-kantoor en heeft features om het toegankelijk te houden. Er is een rolstoellift voor de eerste paar
+    traptredes en een standaard lift om naar de derde verdieping te komen.
   </p>
 
   <p>

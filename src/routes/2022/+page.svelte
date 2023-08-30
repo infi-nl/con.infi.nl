@@ -13,7 +13,7 @@
         enorm gemist hebben om face-to-face over ons vakgebied te praten, zijn er deze editie extra momenten om met elkaar te socializen.
         Inloop is vanaf 12:30 uur, talks starten om 13:00 uur en rond 17:00 uur sluiten we af met een borrel.
       </p>
-      <p>Aanmelden is inmiddels gesloten, en het event is geweest! Nieuwsgierig hoe het was? Hier vind je een en ander terug:</p>
+      <p>Aanmelden is inmiddels gesloten en het event is geweest! Nieuwsgierig hoe het was? Hier vind je een en ander terug:</p>
       <ul>
         <li><a href="/2022/programma">Programma van 2022 terugkijken</a></li>
         <li><a href="https://infi.nl/nieuws/terugblik-op-infi-con-2022/">Blogpost: Terugblik op Infi-Con 2022</a></li>

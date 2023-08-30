@@ -9,7 +9,7 @@
 
       <p>
         Iedere één a twee jaar (wanneer het goed voelt) organiseren we "Infi Con": onze kennisdelingsmiddag, opengesteld voor alle
-        liefhebbers. Met sprekers van Infi, een goede keynote van bekende spreker uit de community, en wie weet in de toekomst ook nog
+        liefhebbers. Met sprekers van Infi, een goede keynote van bekende spreker uit de community en wie weet in de toekomst ook nog
         externe sprekers als gast?
       </p>
 

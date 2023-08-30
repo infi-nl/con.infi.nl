@@ -6,7 +6,7 @@
 <SimplePageHeader>Code of Conduct</SimplePageHeader>
 <SimplePageContent>
   <p>
-    <strong>TLDR</strong>: Gedraag je netjes, en behandel alle aanwezigen met respect. In uitgebreidere woorden vind je de volledige Code of
+    <strong>TLDR</strong>: Gedraag je netjes en behandel alle aanwezigen met respect. In uitgebreidere woorden vind je de volledige Code of
     Conduct hieronder. Als je vragen hebt of tegen problemen aanloopt vooraf, mail ons dan vooral op
     <a href="mailto:community@infi.nl">community@infi.nl</a>. Op het event zelf zullen we ook duidelijke aanspreekpunten hebben.
   </p>

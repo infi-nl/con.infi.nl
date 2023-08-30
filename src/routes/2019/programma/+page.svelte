@@ -14,7 +14,7 @@
     Nu zijn er wel dingen aan de randen van applicatie-ontwikkeling die <em>buiten</em> de kennis en kunde van Infi vallen.
     <strong
       >Daarom zijn we dolblij dat <a href="https://www.visualcinnamon.com/about">Nadieh Bremer</a> de closing keynote wil komen geven</strong
-    >! Haar werk en kennis vormen een fantastische aanvulling, en wij zijn even leergierig en nieuwsgierig naar haar praatje als jullie!
+    >! Haar werk en kennis vormen een fantastische aanvulling en wij zijn even leergierig en nieuwsgierig naar haar praatje als jullie!
   </p>
 
   <h2>Maandag 27 mei 2019, 12:45 - 17:00 @ Infi Utrecht</h2>
@@ -22,7 +22,7 @@
   <p>12:45 - 13:15 Inloop, met koffie en thee &amp; Collaboratief Lego Bouwen</p>
 
   <p>
-    13:15 - 13:20 <a href="https://infi.nl/medewerkers/danielb/"><strong>Daniel Roy</strong></a><strong>: Welkom en introductie</strong>
+    13:15 - 13:20 <a href="https://infi.nl/team/daniel-is-infi/"><strong>Daniel Roy</strong></a><strong>: Welkom en introductie</strong>
   </p>
 
   <p>13:20 - 13:50 <strong><a href="https://infi.nl/medewerkers/jeroen/">Jeroen Heijmans</a>: Learning at Lightning Speed</strong></p>
@@ -45,7 +45,7 @@
     >
   </p>
 
-  <p>16:55 - 17:00 <strong><a href="https://infi.nl/medewerkers/danielb/">Daniel Roy</a>: Afsluiting</strong></p>
+  <p>16:55 - 17:00 <strong><a href="https://infi.nl/team/daniel-is-infi/">Daniel Roy</a>: Afsluiting</strong></p>
 
   <p>17:00 - 19:00 Borrel &amp; Collaboratief Lego Bouwen</p>
 

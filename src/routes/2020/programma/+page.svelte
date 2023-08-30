@@ -1,6 +1,7 @@
 <script>
   import SimplePageContent from '$lib/components/SimplePageContent.svelte';
   import SimplePageHeader from '$lib/components/SimplePageHeader.svelte';
+  import A from "$lib/components/A.svelte";
 </script>
 
 <SimplePageHeader>Programma Infi-Con 2020</SimplePageHeader>
@@ -14,7 +15,7 @@
 
   <p>
     Ook dit jaar zijn we dolblij dat we een <strong>externe keynote spreker hebben</strong>, namelijk
-    <strong><a href="https://simonbrown.je/">Simon Brown</a></strong>! Zijn kennis en kunde gebruiken wij al graag, en we zijn dus ook
+    <strong><A href="https://simonbrown.je/">Simon Brown</A></strong>! Zijn kennis en kunde gebruiken wij al graag en we zijn dus ook
     bijzonder nieuwsgierig naar wat hij ons te vertellen heeft!
   </p>
 
@@ -22,7 +23,7 @@
 
   <p>
     13:00 - 13:10 <strong
-      ><a href="https://infi.nl/medewerkers/ely/">Ely Deckers</a> / <a href="https://infi.nl/medewerkers/patricia-l/">Patricia Lenten</a>:
+      ><a href="https://infi.nl/medewerkers/ely/">Ely Deckers</a> / <a href="https://infi.nl/team/patricia-is-infi/">Patricia Lenten</a>:
       Welkom en introductie</strong
     >
   </p>
@@ -47,11 +48,11 @@
     >
   </p>
 
-  <p>16:10 - 16:55&nbsp;<strong><a href="https://simonbrown.je/">Simon Brown</a>:&nbsp;Keynote!</strong></p>
+  <p>16:10 - 16:55&nbsp;<strong><A href="https://simonbrown.je/">Simon Brown</A>:&nbsp;Keynote!</strong></p>
 
   <p>
     16:55 - 17:00&nbsp;<strong
-      ><a href="https://infi.nl/medewerkers/ely/">Ely Deckers</a> / <a href="https://infi.nl/medewerkers/patricia-l/">Patricia Lenten</a>:
+      ><a href="https://infi.nl/medewerkers/ely/">Ely Deckers</a> / <a href="https://infi.nl/team/patricia-is-infi/">Patricia Lenten</a>:
       Afsluiting</strong
     >
   </p>

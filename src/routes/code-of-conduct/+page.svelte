@@ -1,12 +1,13 @@
 <script>
   import SimplePageContent from '$lib/components/SimplePageContent.svelte';
   import SimplePageHeader from '$lib/components/SimplePageHeader.svelte';
+  import A from "$lib/components/A.svelte";
 </script>
 
 <SimplePageHeader>Code of Conduct</SimplePageHeader>
 <SimplePageContent>
   <p>
-    <strong>TLDR</strong>: Gedraag je netjes, en behandel alle aanwezigen met respect. In uitgebreidere woorden vind je de volledige Code of
+    <strong>TLDR</strong>: Gedraag je netjes en behandel alle aanwezigen met respect. In uitgebreidere woorden vind je de volledige Code of
     Conduct hieronder. Als je vragen hebt of tegen problemen aanloopt vooraf, mail ons dan vooral op
     <a href="mailto:community@infi.nl">community@infi.nl</a>. Op het event zelf zullen we ook duidelijke aanspreekpunten hebben.
   </p>
@@ -68,11 +69,11 @@
   <h2>Attribution</h2>
 
   <p>
-    This Code of Conduct is adapted from the <a href="https://www.contributor-covenant.org" target="_blank" rel="noreferrer noopener"
-      >Contributor Covenant</a
+    This Code of Conduct is adapted from the <A href="https://www.contributor-covenant.org" rel="noreferrer noopener"
+      >Contributor Covenant</A
     >, version 1.4, available at
-    <a href="https://www.contributor-covenant.org/version/1/4/code-of-conduct.html" target="_blank" rel="noreferrer noopener"
-      >https://www.contributor-covenant.org/version/1/4/code-of-conduct.html</a
+    <A href="https://www.contributor-covenant.org/version/1/4/code-of-conduct.html" rel="noreferrer noopener"
+      >https://www.contributor-covenant.org/version/1/4/code-of-conduct.html</A
     >
   </p>
 </SimplePageContent>

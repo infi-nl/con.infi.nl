@@ -1,6 +1,7 @@
 <script lang="ts">
   import SimplePageContent from '$lib/components/SimplePageContent.svelte';
   import SimplePageHeader from '$lib/components/SimplePageHeader.svelte';
+  import A from "$lib/components/A.svelte";
 </script>
 
 <SimplePageHeader>Programma Infi-Con 2022</SimplePageHeader>
@@ -13,9 +14,9 @@
   </p>
   <p>
     <strong>
-      Daarnaast zijn we dolblij dat <a href="https://www.felienne.com/">Felienne Hermans</a> de opening keynote wil komen geven.
+      Daarnaast zijn we dolblij dat <A href="https://www.felienne.com/">Felienne Hermans</A> de opening keynote wil komen geven.
     </strong>
-    Haar boek "<a href="https://www.felienne.com/book">The Programmer's Brain</a>"" geeft je concrete handvatten over hoe je als programmeur
+    Haar boek "<A href="https://www.felienne.com/book">The Programmer's Brain</A>"" geeft je concrete handvatten over hoe je als programmeur
     leert en denkt over code.
   </p>
 
@@ -26,7 +27,7 @@
       13:00 - 13:15 <a href="https://infi.nl/team/jeroen-heijmans-is-infi/">Jeroen Heijmans</a>: Opening
     </li>
     <li>
-      13:15 - 14:15 <a href="https://www.felienne.com/">Felienne Hermans</a>: The Programmer's Brain
+      13:15 - 14:15 <A href="https://www.felienne.com/">Felienne Hermans</A>: The Programmer's Brain
     </li>
     <li>14:15 - 14:30 Pauze</li>
     <li>

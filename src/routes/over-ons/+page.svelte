@@ -22,7 +22,7 @@
 
   <p>
     Bij <strong>Infi</strong> vinden we het belangrijk en leuk om veel en <strong>uitgebreid kennis met elkaar te delen</strong>. We maken
-    hier expliciet tijd voor, en proberen elk jaar alle collega’s minimaal één keer uit te dagen om de rest iets te leren. Soms doen we dit
+    hier expliciet tijd voor en proberen elk jaar alle collega’s minimaal één keer uit te dagen om de rest iets te leren. Soms doen we dit
     in een workshop, een enkeling gaat zelfs extern spreken, maar meestal is het in de vorm van een presentatie bij ons op kantoor, vaak
     direct na de lunch: beter bekend als een <strong>Infi Après-Lunch</strong> praatje.
   </p>
@@ -45,26 +45,26 @@
 
   <p>
     Wat je mag verwachten: een serie kennisdelingspraatjes van Infi-ers, over uiteenlopende onderwerpen rondom applicatieontwikkeling.
-    Informeel, collegiaal, met goed wat lol, en meestal diepgaand.
+    Informeel, collegiaal, met goed wat lol en meestal diepgaand.
   </p>
 
   <p>
     Oh, en om het toch een beetje extra speciaal te maken, hebben we ook <strong>een externe spreker voor een “Keynote”</strong>. In 2019
-    was kwam <strong>Nadieh Bremer</strong> ons vertellen over haar expertise, en in 2020 hadden we<strong> Simon Brown</strong> als
+    was kwam <strong>Nadieh Bremer</strong> ons vertellen over haar expertise en in 2020 hadden we<strong> Simon Brown</strong> als
     spreker! En dit jaar komt <strong>Felienne Hermans</strong> ons iets vertellen over haar boek “The Programmer's Brain”.
   </p>
 
   <h2>Over de organisatie van de 2022 editie</h2>
 
   <p>
-    De structuur bij Infi is bijzonder plat, en daar zijn we erg gelukkig mee! Dat betekent dus ook dat <strong
+    De structuur bij Infi is bijzonder plat en daar zijn we erg gelukkig mee! Dat betekent dus ook dat <strong
       >onze eigen developers Infi-Con organiseren</strong
     >, met goed wat hulp van onze geweldige
     <a href="https://infi.nl/medewerkers/jolanda/">Office Manager</a>!
   </p>
 
   <p>
-    Veel mensen bij Infi dragen een steentje bij, en de dag wordt natuurlijk gedragen door <a href="/2022/programma/">onze sprekers</a>,
+    Veel mensen bij Infi dragen een steentje bij en de dag wordt natuurlijk gedragen door <a href="/2022/programma/">onze sprekers</a>,
     maar dit zijn de mensen die je verantwoordelijk mag houden voor de organisatie van de dag zelf:
   </p>
 

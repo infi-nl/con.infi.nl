@@ -1,6 +1,7 @@
 <script>
   import SimplePageContent from '$lib/components/SimplePageContent.svelte';
   import SimplePageHeader from '$lib/components/SimplePageHeader.svelte';
+  import A from "$lib/components/A.svelte";
 </script>
 
 <SimplePageHeader>F.A.Q.</SimplePageHeader>
@@ -35,8 +36,8 @@
   <p>Omdat het voor onszelf en gasten erg bevalt, deden we dat tot nog toe in de jaren erop weer precies zo.</p>
 
   <p>
-    Als je graag een keer na werktijd wil komen buurten bij Infi, houd dan een oogje op <a
-      href="https://www.meetup.com/Infi-Developers-Meetup/">onze Meetup group</a
+    Als je graag een keer na werktijd wil komen buurten bij Infi, houd dan een oogje op <A
+      href="https://www.meetup.com/nl-NL/Infi-Developers-Meetup/">onze Meetup group</A
     >.
   </p>
 

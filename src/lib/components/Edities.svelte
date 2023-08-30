@@ -26,7 +26,7 @@
       <div class="my-1">
         <AnchorButton href="/2019">2019 Home</AnchorButton>
         <AnchorButton href="/2019/programma">Programma</AnchorButton>
-        <AnchorButton href="https://www.youtube.com/watch?v=KAuXDjtswpM&list=PLmKkHHpMpo_iQa1WDm9jFmtPBLieXeBHL">YouTube Playlist</AnchorButton>
+        <AnchorButton href="https://www.youtube.com/watch?v=KAuXDjtswpM&list=PLmKkHHpMpo_iQa1WDm9jFmtPBLieXeBHL" openInNew={true}>YouTube Playlist</AnchorButton>
       </div>
     </div>
   </div>
@@ -42,7 +42,7 @@
       <div class="my-1">
         <AnchorButton href="/2020">2020 Home</AnchorButton>
         <AnchorButton href="/2020/programma">Programma</AnchorButton>
-        <AnchorButton href="https://www.youtube.com/playlist?list=PLmKkHHpMpo_js1gwDJgqvNkVUIlONF-uT">YouTube Playlist</AnchorButton>
+        <AnchorButton href="https://www.youtube.com/playlist?list=PLmKkHHpMpo_js1gwDJgqvNkVUIlONF-uT" openInNew={true}>YouTube Playlist</AnchorButton>
       </div>
     </div>
   </div>
@@ -69,7 +69,7 @@
       <div class="my-1">
         <AnchorButton href="/2022">2022 Home</AnchorButton>
         <AnchorButton href="/2022/programma">Programma</AnchorButton>
-        <AnchorButton href="https://www.youtube.com/playlist?list=PLmKkHHpMpo_gfmH1U97UiSwoXvDkX9Zyl">YouTube Playlist</AnchorButton>
+        <AnchorButton href="https://www.youtube.com/playlist?list=PLmKkHHpMpo_gfmH1U97UiSwoXvDkX9Zyl" openInNew={true}>YouTube Playlist</AnchorButton>
       </div>
     </div>
   </div>

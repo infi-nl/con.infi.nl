@@ -1,6 +1,7 @@
 <script lang="ts">
   export let href: string;
   export let clazz: string = '';
+  export let openInNew = false;
 </script>
 
 <a
@@ -11,7 +12,9 @@
     text-white no-underline
     ${clazz}
   `}
+  target="{openInNew ? '_blank' : ''}"
   {href}
 >
   <slot />
+  {#if openInNew}<sup class="text-xs no-underline">↗</sup>{/if}
 </a>

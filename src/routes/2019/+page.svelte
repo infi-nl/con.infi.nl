@@ -1,3 +1,7 @@
+<script>
+  import A from '$lib/components/A.svelte';
+</script>
+
 <div class="mx-auto mb-16 max-w-[1024px] mt-16">
   <div class="mx-4 text-center p-8 rounded-2xl bg-white/80 text-stone-800">
     <article class="prose lg:prose-lg max-w-none">
@@ -11,8 +15,8 @@
         <li><a href="/2019/programma">Programma van 2019 terugkijken</a></li>
         <li><a href="https://infi.nl/nieuws/infi-con-2019-wrap-up/">Blogpost: Infi-Con 2019 Wrap-up</a></li>
         <li>
-          <a href="https://www.youtube.com/watch?v=KAuXDjtswpM&list=PLmKkHHpMpo_iQa1WDm9jFmtPBLieXeBHL"
-            >YouTube playlist met deel van de talks</a
+          <A href="https://www.youtube.com/watch?v=KAuXDjtswpM&list=PLmKkHHpMpo_iQa1WDm9jFmtPBLieXeBHL"
+            >YouTube playlist met deel van de talks</A
           >
         </li>
       </ul>

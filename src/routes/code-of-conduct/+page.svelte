@@ -1,6 +1,7 @@
 <script>
   import SimplePageContent from '$lib/components/SimplePageContent.svelte';
   import SimplePageHeader from '$lib/components/SimplePageHeader.svelte';
+  import A from "$lib/components/A.svelte";
 </script>
 
 <SimplePageHeader>Code of Conduct</SimplePageHeader>
@@ -68,11 +69,11 @@
   <h2>Attribution</h2>
 
   <p>
-    This Code of Conduct is adapted from the <a href="https://www.contributor-covenant.org" target="_blank" rel="noreferrer noopener"
-      >Contributor Covenant</a
+    This Code of Conduct is adapted from the <A href="https://www.contributor-covenant.org" rel="noreferrer noopener"
+      >Contributor Covenant</A
     >, version 1.4, available at
-    <a href="https://www.contributor-covenant.org/version/1/4/code-of-conduct.html" target="_blank" rel="noreferrer noopener"
-      >https://www.contributor-covenant.org/version/1/4/code-of-conduct.html</a
+    <A href="https://www.contributor-covenant.org/version/1/4/code-of-conduct.html" rel="noreferrer noopener"
+      >https://www.contributor-covenant.org/version/1/4/code-of-conduct.html</A
     >
   </p>
 </SimplePageContent>

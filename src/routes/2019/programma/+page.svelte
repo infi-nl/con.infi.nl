@@ -1,6 +1,7 @@
 <script>
   import SimplePageContent from '$lib/components/SimplePageContent.svelte';
   import SimplePageHeader from '$lib/components/SimplePageHeader.svelte';
+  import A from "$lib/components/A.svelte";
 </script>
 
 <SimplePageHeader>Programma Infi-Con 2019</SimplePageHeader>
@@ -13,7 +14,7 @@
   <p>
     Nu zijn er wel dingen aan de randen van applicatie-ontwikkeling die <em>buiten</em> de kennis en kunde van Infi vallen.
     <strong
-      >Daarom zijn we dolblij dat <a href="https://www.visualcinnamon.com/about">Nadieh Bremer</a> de closing keynote wil komen geven</strong
+      >Daarom zijn we dolblij dat <A href="https://www.visualcinnamon.com/about">Nadieh Bremer</A> de closing keynote wil komen geven</strong
     >! Haar werk en kennis vormen een fantastische aanvulling en wij zijn even leergierig en nieuwsgierig naar haar praatje als jullie!
   </p>
 
@@ -41,7 +42,7 @@
 
   <p>
     16:10 - 16:55 <strong
-      ><a href="https://www.visualcinnamon.com/about">Nadieh Bremer</a>: Data sketches - a year of exotic data visualizations</strong
+      ><A href="https://www.visualcinnamon.com/about">Nadieh Bremer</A>: Data sketches - a year of exotic data visualizations</strong
     >
   </p>
 

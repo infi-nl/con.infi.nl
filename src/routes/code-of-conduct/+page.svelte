@@ -1,7 +1,7 @@
 <script>
   import SimplePageContent from '$lib/components/SimplePageContent.svelte';
   import SimplePageHeader from '$lib/components/SimplePageHeader.svelte';
-  import A from "$lib/components/A.svelte";
+  import A from '$lib/components/A.svelte';
 </script>
 
 <SimplePageHeader>Code of Conduct</SimplePageHeader>
@@ -16,64 +16,127 @@
 
   <h2>Infi Developer Meetup Code of Conduct</h2>
 
+  <h3>Our Pledge</h3>
+
   <p>
-    In the interest of fostering an open and welcoming environment, we as organizers pledge to making participation in our events and our
-    community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and
-    expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity
-    and orientation.
+    We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone,
+    regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of
+    experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
   </p>
 
-  <h2>Our Standards</h2>
+  <p>We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.</p>
 
-  <p>Examples of behavior that contributes to creating a positive environment include:</p>
+  <h3>Our Standards</h3>
+
+  <p>Examples of behavior that contributes to a positive environment for our community include:</p>
 
   <ul>
-    <li>Using welcoming and inclusive language</li>
-    <li>Being respectful of differing viewpoints and experiences</li>
-    <li>Gracefully accepting constructive criticism</li>
-    <li>Showing empathy towards other community members</li>
+    <li>Demonstrating empathy and kindness toward other people</li>
+    <li>Being respectful of differing opinions, viewpoints, and experiences</li>
+    <li>Giving and gracefully accepting constructive feedback</li>
+    <li>Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience</li>
+    <li>Focusing on what is best not just for us as individuals, but for the overall community</li>
   </ul>
 
-  <p>Examples of unacceptable behavior by participants include:</p>
+  <p>Examples of unacceptable behavior include:</p>
 
   <ul>
-    <li>The use of sexualized language or imagery and unwelcome sexual attention or advances</li>
-    <li>Trolling, insulting/derogatory comments, and personal or political attacks</li>
+    <li>The use of sexualized language or imagery, and sexual attention or advances of any kind</li>
+    <li>Trolling, insulting or derogatory comments, and personal or political attacks</li>
     <li>Public or private harassment</li>
-    <li>Publishing others’ private information, such as a physical or electronic address, without explicit permission</li>
+    <li>Publishing others' private information, such as a physical or email address, without their explicit permission</li>
     <li>Other conduct which could reasonably be considered inappropriate in a professional setting</li>
   </ul>
 
-  <h2>Our Responsibilities</h2>
+  <h3>Enforcement Responsibilities</h3>
 
   <p>
-    Organizers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective
-    action in response to any instances of unacceptable behavior.
+    Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair
+    corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
   </p>
+  <p>
+    Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other
+    contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+  </p>
+
+  <h3>Scope</h3>
 
   <p>
-    Event organizers have the right and responsibility to enforce this Code of Conduct. Any participant violating these rules may be
-    expelled from events (without a refund, if applicable) at the discretion of the organizers.
+    This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community
+    in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media
+    account, or acting as an appointed representative at an online or offline event.
   </p>
 
-  <h2>Enforcement</h2>
+  <h3>Enforcement</h3>
 
   <p>
-    Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the organizers at <a
-      href="mailto:community@infi.nl">community@infi.nl</a
-    >. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the
-    circumstances. The organizers are obligated to maintain confidentiality with regard to the reporter of an incident. Further details of
-    specific enforcement policies may be posted separately.
+    Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement
+    at community@infi.nl. All complaints will be reviewed and investigated promptly and fairly.
   </p>
+
+  <p>All community leaders are obligated to respect the privacy and security of the reporter of any incident.</p>
+
+  <h3>Enforcement Guidelines</h3>
+
+  <p>
+    Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of
+    this Code of Conduct:
+  </p>
+
+  <h4>1. Correction</h4>
+
+  <p>
+    <strong>Community Impact:</strong> Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
+  </p>
+  <p>
+    <strong>Consequence:</strong> A private, written warning from community leaders, providing clarity around the nature of the violation and
+    an explanation of why the behavior was inappropriate. A public apology may be requested.
+  </p>
+
+  <h4>2. Warning</h4>
+
+  <p><strong>Community Impact:</strong> A violation through a single incident or series of actions.</p>
+  <p>
+    <strong>Consequence:</strong> A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited
+    interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces
+    as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.
+  </p>
+
+  <h4>3. Temporary Ban</h4>
+
+  <p><strong>Community Impact:</strong> A serious violation of community standards, including sustained inappropriate behavior.</p>
+  <p>
+    <strong>Consequence:</strong> A temporary ban from any sort of interaction or public communication with the community for a specified period
+    of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct,
+    is allowed during this period. Violating these terms may lead to a permanent ban.
+  </p>
+
+  <h4>4. Permanent Ban</h4>
+
+  <p>
+    <strong>Community Impact:</strong> Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior,
+    harassment of an individual, or aggression toward or disparagement of classes of individuals.
+  </p>
+  <p><strong>Consequence:</strong> A permanent ban from any sort of public interaction within the community.</p>
 
   <h2>Attribution</h2>
 
   <p>
-    This Code of Conduct is adapted from the <A href="https://www.contributor-covenant.org" rel="noreferrer noopener"
-      >Contributor Covenant</A
-    >, version 1.4, available at
-    <A href="https://www.contributor-covenant.org/version/1/4/code-of-conduct.html" rel="noreferrer noopener"
-      >https://www.contributor-covenant.org/version/1/4/code-of-conduct.html</A
-    >
+    This Code of Conduct is adapted from the <A href="https://www.contributor-covenant.org" rel="nofollow">Contributor Covenant</A>, version
+    2.0, available at
+    <A href="https://www.contributor-covenant.org/version/2/0/code_of_conduct.html" rel="nofollow"
+      >https://www.contributor-covenant.org/version/2/0/code_of_conduct.html</A
+    >.
+  </p>
+  <p>
+    Community Impact Guidelines were inspired by <A href="https://github.com/mozilla/diversity"
+      >Mozilla's code of conduct enforcement ladder</A
+    >.
+  </p>
+  <p>
+    For answers to common questions about this code of conduct, see the FAQ at
+    <A href="https://www.contributor-covenant.org/faq" rel="nofollow">https://www.contributor-covenant.org/faq</A>. Translations are
+    available at
+    <A href="https://www.contributor-covenant.org/translations" rel="nofollow">https://www.contributor-covenant.org/translations</A>.
   </p>
 </SimplePageContent>

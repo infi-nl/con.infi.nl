@@ -81,7 +81,18 @@
     </div>
     <div>
       <div class="my-1 text-3xl">Infi-Con Pro 2023</div>
-      <div class="my-1 text-xl">Weer een jaartje pauze, maar Infi-Con zal terugkeren!</div>
+      <div class="my-1 text-xl">Weer een jaartje pauze...</div>
+    </div>
+  </div>
+  <div class="flex items-center gap-2 md:gap-4 lg:gap-8 opacity-50 saturate-50">
+    <div class="w-32 items-center justify-center hidden md:flex">
+      <div class="border-[2px] border-orange-500 bg-orange-100 rounded-full w-14 h-14 text-center flex flex-col justify-center text-base">
+        2024
+      </div>
+    </div>
+    <div>
+      <div class="my-1 text-3xl">Infi-Con Pro 2024</div>
+      <div class="my-1 text-xl">Helaas nog een extra jaartje pauze, maar Infi-Con zal terugkeren!</div>
     </div>
   </div>
 </div>

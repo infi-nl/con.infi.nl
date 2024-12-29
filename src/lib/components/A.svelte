@@ -1,13 +1,14 @@
 <script lang="ts">
-    export let href: string;
-    export let rel = 'noreferrer';
-    export let dark = false;
+  export let href: string;
+  export let rel = 'noreferrer';
+  export let dark = false;
+  export let clazz = '';
 </script>
 
 <!-- prettier-ignore -->
 <a
-        class={dark ? 'a-internal-dark' : 'a-internal'}
+        class={`${dark ? 'a-internal-dark' : 'a-internal'} ${clazz}`}
         target="_blank"
         {rel}
         {href}><span class="underline"
-><slot /></span><sup class="text-xs no-underline">↗</sup></a>
+><slot /></span></a>

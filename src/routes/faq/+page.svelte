@@ -1,7 +1,7 @@
 <script>
   import SimplePageContent from '$lib/components/SimplePageContent.svelte';
   import SimplePageHeader from '$lib/components/SimplePageHeader.svelte';
-  import A from "$lib/components/A.svelte";
+  import A from '$lib/components/A.svelte';
 </script>
 
 <SimplePageHeader>F.A.Q.</SimplePageHeader>
@@ -17,7 +17,8 @@
   <h2>Waar is Infi-Con eigenlijk?</h2>
 
   <p>
-    Infi-Con 2022 was in onze vestiging in Utrecht. De volgende editie zou weer in Utrecht kunnen zijn, of een van de andere vestigingen.
+    In 2022 was op ons kantoor in Utrecht de laatste editie van Infi-Con. Zeer goede kans dat een volgende editie daar ook zal zijn. Stay
+    tuned!
   </p>
 
   <h2>Hoe laat is Infi-Con?</h2>

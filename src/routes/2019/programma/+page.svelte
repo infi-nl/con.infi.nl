@@ -1,7 +1,7 @@
 <script>
   import SimplePageContent from '$lib/components/SimplePageContent.svelte';
   import SimplePageHeader from '$lib/components/SimplePageHeader.svelte';
-  import A from "$lib/components/A.svelte";
+  import A from '$lib/components/A.svelte';
 </script>
 
 <SimplePageHeader>Programma Infi-Con 2019</SimplePageHeader>
@@ -23,22 +23,22 @@
   <p>12:45 - 13:15 Inloop, met koffie en thee &amp; Collaboratief Lego Bouwen</p>
 
   <p>
-    13:15 - 13:20 <a href="https://infi.nl/team/daniel-is-infi/"><strong>Daniel Roy</strong></a><strong>: Welkom en introductie</strong>
+    13:15 - 13:20 <strong>Daniel Roy</strong><strong>: Welkom en introductie</strong>
   </p>
 
-  <p>13:20 - 13:50 <strong><a href="https://infi.nl/medewerkers/jeroen/">Jeroen Heijmans</a>: Learning at Lightning Speed</strong></p>
+  <p>13:20 - 13:50 <strong>Jeroen Heijmans: Learning at Lightning Speed</strong></p>
 
-  <p>13:55 - 14:10 <strong><a href="https://infi.nl/medewerkers/anna/">Anna Baas</a>: Azure Search bij NLZIET </strong></p>
+  <p>13:55 - 14:10 <strong>Anna Baas: Azure Search bij NLZIET </strong></p>
 
-  <p>14:15 - 14:30 <strong><a href="https://infi.nl/medewerkers/sander-vink/">Sander Vink</a>: GitLab naar Azure Auto-Deploy</strong></p>
+  <p>14:15 - 14:30 <strong>Sander Vink: GitLab naar Azure Auto-Deploy</strong></p>
 
   <p>14:30 - 14:45 <strong>Mendel Agterberg: Healing F#-withdrawal with C#</strong></p>
 
   <p>14:45 - 15:00 Pauze &amp; Collaboratief Lego Bouwen</p>
 
-  <p>15:00 - 15:30 <strong><a href="https://infi.nl/medewerkers/peer/">Peer Fisser</a>: VueJS deep dive</strong></p>
+  <p>15:00 - 15:30 <strong>Peer Fisser: VueJS deep dive</strong></p>
 
-  <p>15:35 - 16:05 <strong><a href="https://infi.nl/medewerkers/ely/">Ely Deckers</a></strong>: <strong>ReactNative</strong></p>
+  <p>15:35 - 16:05 <strong>Ely Deckers: ReactNative</strong></p>
 
   <p>
     16:10 - 16:55 <strong
@@ -46,7 +46,7 @@
     >
   </p>
 
-  <p>16:55 - 17:00 <strong><a href="https://infi.nl/team/daniel-is-infi/">Daniel Roy</a>: Afsluiting</strong></p>
+  <p>16:55 - 17:00 <strong>Daniel Roy: Afsluiting</strong></p>
 
   <p>17:00 - 19:00 Borrel &amp; Collaboratief Lego Bouwen</p>
 

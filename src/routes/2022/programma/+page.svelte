@@ -1,7 +1,7 @@
 <script lang="ts">
   import SimplePageContent from '$lib/components/SimplePageContent.svelte';
   import SimplePageHeader from '$lib/components/SimplePageHeader.svelte';
-  import A from "$lib/components/A.svelte";
+  import A from '$lib/components/A.svelte';
 </script>
 
 <SimplePageHeader>Programma Infi-Con 2022</SimplePageHeader>
@@ -23,27 +23,17 @@
   <h2>Donderdag 20 oktober 2022, 12:30 - 17:00 @ Infi Utrecht</h2>
   <ul>
     <li>12:30 - 13:00 Inloop, met koffie, thee, fris en wat lichte (o.a. vegan) snacks</li>
+    <li>13:00 - 13:15 <strong>Jeroen Heijmans: Opening</strong></li>
     <li>
-      13:00 - 13:15 <a href="https://infi.nl/team/jeroen-heijmans-is-infi/">Jeroen Heijmans</a>: Opening
-    </li>
-    <li>
-      13:15 - 14:15 <A href="https://www.felienne.com/">Felienne Hermans</A>: The Programmer's Brain
+      13:15 - 14:15 <strong><A href="https://www.felienne.com/">Felienne Hermans</A>: The Programmer's Brain</strong>
     </li>
     <li>14:15 - 14:30 Pauze</li>
-    <li>
-      14:30 - 15:05 <a href="https://infi.nl/team/peer-is-infi/">Peer Fisser</a>: Er is hier maar een de baas
-    </li>
-    <li>
-      15:05 - 15:40 <a href="https://infi.nl/team/max-is-infi/">Max Nieuwstad</a>: Unit Testing Principles, Practices, and Patterns
-    </li>
+    <li>14:30 - 15:05 <strong>Peer Fisser: Er is hier maar een de baas</strong></li>
+    <li>15:05 - 15:40 <strong>Max Nieuwstad: Unit Testing Principles, Practices, and Patterns</strong></li>
     <li>15:50 - 16:05 Pauze</li>
-    <li>
-      16:05 - 16:40 <a href="https://infi.nl/team/jeroen-is-infi/">Jeroen Huinink</a>: The Mythical Man-Month
-    </li>
-    <li>
-      16:40 - 17:00 <a href="https://infi.nl/team/patricia-is-infi/">Patricia Lenten</a>: Afsluiting
-    </li>
-    <li>17:00 - 19:00 Borrel met (o.a. vegan) snacks</li>
+    <li>16:05 - 16:40 <strong>Jeroen Huinink: The Mythical Man-Month</strong></li>
+    <li>16:40 - 17:00 <strong>Patricia Lenten: Afsluiting</strong></li>
+    <li>17:00 - 19:00 Borrel!</li>
   </ul>
 
   <p>

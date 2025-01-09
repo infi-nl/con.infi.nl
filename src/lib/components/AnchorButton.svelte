@@ -12,9 +12,8 @@
     text-white no-underline
     ${clazz}
   `}
-  target="{openInNew ? '_blank' : ''}"
+  target={openInNew ? '_blank' : ''}
   {href}
 >
   <slot />
-  {#if openInNew}<sup class="text-xs no-underline">↗</sup>{/if}
 </a>

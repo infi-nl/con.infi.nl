@@ -11,8 +11,8 @@
 
   <p>
     <span
-      >Een team van 30-40 waarmakers werkt in Utrecht (2003), Amsterdam (2017) en Nijmegen (2022) samen om software te bouwen waarmee jij
-      het maakt. We ontwikkelen voornamelijk slimme webapplicaties en mobiele apps.
+      >Infi ontwikkelt al ruim 20 jaar geavanceerde software en webapplicaties die jouw plannen een fundering geven. We ontwikkelen
+      voornamelijk slimme webapplicaties en mobiele apps.
     </span>
   </p>
 
@@ -50,8 +50,8 @@
 
   <p>
     Oh, en om het toch een beetje extra speciaal te maken, hebben we ook <strong>een externe spreker voor een “Keynote”</strong>. In 2019
-    was kwam <strong>Nadieh Bremer</strong> ons vertellen over haar expertise en in 2020 hadden we<strong> Simon Brown</strong> als
-    spreker! En dit jaar komt <strong>Felienne Hermans</strong> ons iets vertellen over haar boek “The Programmer's Brain”.
+    was kwam <strong>Nadieh Bremer</strong> ons vertellen over haar expertise en in 2020 hadden we<strong> Simon Brown</strong> als spreker!
+    En dit jaar komt <strong>Felienne Hermans</strong> ons iets vertellen over haar boek “The Programmer's Brain”.
   </p>
 
   <h2>Over de organisatie van de 2022 editie</h2>
@@ -59,24 +59,9 @@
   <p>
     De structuur bij Infi is bijzonder plat en daar zijn we erg gelukkig mee! Dat betekent dus ook dat <strong
       >onze eigen developers Infi-Con organiseren</strong
-    >, met goed wat hulp van onze geweldige
-    <a href="https://infi.nl/medewerkers/jolanda/">Office Manager</a>!
+    >, met goed wat hulp uit allerhande hoeken! De huidige organisatie (zelfs als het even stilligt) kun je bereiken op
+    <a href="mailto:community@infi.nl">community@infi.nl</a>
   </p>
-
-  <p>
-    Veel mensen bij Infi dragen een steentje bij en de dag wordt natuurlijk gedragen door <a href="/2022/programma/">onze sprekers</a>,
-    maar dit zijn de mensen die je verantwoordelijk mag houden voor de organisatie van de dag zelf:
-  </p>
-
-  <ul>
-    <li><a href="https://infi.nl/team/luca-is-infi/">Luca</a></li>
-    <li><a href="https://infi.nl/team/michelle-is-infi/">Michelle</a></li>
-    <li><a href="https://infi.nl/team/rutger-is-infi/">Rutger</a></li>
-    <li><a href="https://infi.nl/medewerkers/jeroen/">Jeroen</a></li>
-    <li><a href="https://infi.nl/team/joralf-is-infi/">Joralf</a></li>
-  </ul>
-
-  <p>Je kunt ons allemaal tegelijk bereiken op <a href="mailto:community@infi.nl">community@infi.nl</a></p>
 
   <h2>Edities &amp; vorige jaren</h2>
 

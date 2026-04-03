@@ -8,16 +8,15 @@
       <h1>Infi-Con</h1>
 
       <p>
-        Iedere één a twee jaar (wanneer het goed voelt) organiseren we "Infi Con": onze kennisdelingsmiddag, opengesteld voor alle
-        liefhebbers. Met sprekers van Infi, een goede keynote van bekende spreker uit de community en wie weet in de toekomst ook nog
-        externe sprekers als gast?
+        Iedere één a twee jaar (wanneer het goed voelt) organiseren we <strong>Infi-Con</strong>:<br />
+        Onze kennisdelingsmiddag, opengesteld voor alle liefhebbers. Met sprekers van Infi zelf, een goede keynote van een bekende (gast)spreker
+        uit de community en, als het past in de planning, aanvullende gastsprekers.
       </p>
 
       <p>
-        We hebben wat uitgebreidere geschiedenis over <a href="/edities">voorgaande edities</a>, maar even in het kort... In 2018 was er een
-        "interne" Infi Con, in
-        <a href="/2019">2019</a> en <a href="/2020">2020</a> waren de eerste twee "open" edities. In
-        <a href="/2022">2022 was de meest recente editie</a>. En je kunt in de toekomst uiteraard nog nieuwe edities verwachten!
+        Onze <a href="/edities">voorgaande edities</a> waren in 2018 (voor onszelf), <a href="/2019">2019</a>, <a href="/2020">2020</a>
+        (locked down) en <a href="/2022">2022</a>. Geen vast ritme, maar we doen het graag, dus in de toekomst kun je uiteraard nieuwe
+        edities verwachten!
       </p>
 
       <h2>Op de hoogte blijven?</h2>

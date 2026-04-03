@@ -1,0 +1,17 @@
+{
+  "name": "Infi-Con website",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
+  "forwardPorts": [5173],
+  "remoteEnv": {
+    "VITE_SERVER_HOST": "0.0.0.0"
+  },
+  "postCreateCommand": "npm install",
+  "customizations": {
+    "vscode": {
+      "extensions": ["svelte.svelte-vscode", "bradlc.vscode-tailwindcss", "dbaeumer.vscode-eslint", "esbenp.prettier-vscode"],
+      "settings": {
+        "extensions.ignoreRecommendations": true
+      }
+    }
+  }
+}

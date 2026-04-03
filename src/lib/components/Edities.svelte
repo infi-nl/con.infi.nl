@@ -3,15 +3,17 @@
 </script>
 
 <div class="flex flex-col gap-4 lg:gap-8">
-  <div class="flex items-center gap-2 md:gap-4 lg:gap-8 opacity-50 saturate-50">
+  <div class="flex items-center gap-2 md:gap-4 lg:gap-8">
     <div class="w-32 items-center justify-center hidden md:flex">
-      <div class="border-2 border-orange-500 bg-orange-100 rounded-full w-14 h-14 text-center flex flex-col justify-center text-base">
+      <div
+        class="border-12 border-orange-500 bg-orange-200 rounded-full w-32 h-32 text-center flex flex-col justify-center text-4xl font-bold"
+      >
         2026
       </div>
     </div>
     <div>
       <div class="my-1 text-3xl">Infi-Con 2026</div>
-      <div class="my-1 text-xl">Infi-Con zal terugkeren!</div>
+      <div class="my-1 text-xl">Infi-Con keert terug!</div>
     </div>
   </div>
   <div class="flex items-center gap-2 md:gap-4 lg:gap-8 opacity-50 saturate-50">

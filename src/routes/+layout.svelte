@@ -22,7 +22,7 @@
   <slot />
 
   <footer class="mt-auto">
-    <div class="mt-8 py-4 bg-gradient-to-r from-black/100 to-black/80 shadow-inner opacity-80">
+    <div class="mt-8 py-4 bg-linear-to-r from-black to-black/80 shadow-inner opacity-80">
       <div class="mx-auto max-w-[1024px] px-8">
         <a class="hover:text-orange-500 hover:opacity-100 opacity-60" href="https://infi.nl">infi.nl</a>
         |

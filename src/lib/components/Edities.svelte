@@ -16,7 +16,7 @@
   </div>
   <div class="flex items-center gap-2 md:gap-4 lg:gap-8">
     <div class="w-32 items-center justify-center hidden md:flex">
-      <div class="border-[12px] border-orange-500 bg-orange-200 rounded-full w-32 h-32 text-center flex flex-col justify-center text-4xl font-bold">
+      <div class="border-12 border-orange-500 bg-orange-200 rounded-full w-32 h-32 text-center flex flex-col justify-center text-4xl font-bold">
         2019
       </div>
     </div>
@@ -32,7 +32,7 @@
   </div>
   <div class="flex items-center gap-2 md:gap-4 lg:gap-8">
     <div class="w-32 items-center justify-center hidden md:flex">
-      <div class="border-[12px] border-orange-500 bg-orange-100 rounded-full w-28 h-28 text-center flex flex-col justify-center text-2xl font-bold">
+      <div class="border-12 border-orange-500 bg-orange-100 rounded-full w-28 h-28 text-center flex flex-col justify-center text-2xl font-bold">
         2020
       </div>
     </div>
@@ -48,7 +48,7 @@
   </div>
   <div class="flex items-center gap-2 md:gap-4 lg:gap-8 opacity-50 saturate-50">
     <div class="w-32 items-center justify-center hidden md:flex">
-      <div class="border-[2px] border-orange-500 bg-orange-100 rounded-full w-14 h-14 text-center flex flex-col justify-center text-base">
+      <div class="border-2 border-orange-500 bg-orange-100 rounded-full w-14 h-14 text-center flex flex-col justify-center text-base">
         2021
       </div>
     </div>
@@ -59,7 +59,7 @@
   </div>
   <div class="flex items-center gap-2 md:gap-4 lg:gap-8">
     <div class="w-32 items-center justify-center hidden md:flex">
-      <div class="border-[12px] border-orange-500 bg-orange-200 rounded-full w-32 h-32 text-center flex flex-col justify-center text-4xl font-bold">
+      <div class="border-12 border-orange-500 bg-orange-200 rounded-full w-32 h-32 text-center flex flex-col justify-center text-4xl font-bold">
         2022
       </div>
     </div>
@@ -75,7 +75,7 @@
   </div>
   <div class="flex items-center gap-2 md:gap-4 lg:gap-8 opacity-50 saturate-50">
     <div class="w-32 items-center justify-center hidden md:flex">
-      <div class="border-[2px] border-orange-500 bg-orange-100 rounded-full w-14 h-14 text-center flex flex-col justify-center text-base">
+      <div class="border-2 border-orange-500 bg-orange-100 rounded-full w-14 h-14 text-center flex flex-col justify-center text-base">
         2023
       </div>
     </div>
@@ -86,7 +86,7 @@
   </div>
   <div class="flex items-center gap-2 md:gap-4 lg:gap-8 opacity-50 saturate-50">
     <div class="w-32 items-center justify-center hidden md:flex">
-      <div class="border-[2px] border-orange-500 bg-orange-100 rounded-full w-14 h-14 text-center flex flex-col justify-center text-base">
+      <div class="border-2 border-orange-500 bg-orange-100 rounded-full w-14 h-14 text-center flex flex-col justify-center text-base">
         2024
       </div>
     </div>

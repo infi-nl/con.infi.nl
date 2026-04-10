@@ -1,6 +1,6 @@
 {
   "name": "Infi-Con website",
-  "image": "mcr.microsoft.com/devcontainers/javascript-node:22",
+  "image": "mcr.microsoft.com/devcontainers/javascript-node:24",
   "forwardPorts": [5173],
   "remoteEnv": {
     "VITE_SERVER_HOST": "0.0.0.0"

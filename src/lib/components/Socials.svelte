@@ -1,10 +1,10 @@
 <script>
   import A from '$lib/components/A.svelte';
   import SimpleIcon from '$lib/components/SimpleIcon.svelte';
-  import { siRss, siMastodon, siBluesky, siInstagram, siX, siGithub } from 'simple-icons';
+  import { siRss, siMastodon, siBluesky, siInstagram, siGithub } from 'simple-icons';
 </script>
 
-<div class="flex flex-wrap gap-4 justify-center">
+<div class="flex flex-wrap gap-8 justify-center mx-20">
   <div><A clazz="bg-black/10 p-8 inline-flex items-center gap-2" href="https://infi.nl/blog"><SimpleIcon icon={siRss} />Ons blog</A></div>
   <div>
     <A clazz="bg-black/10 p-8 inline-flex items-center gap-2" href="https://mastodon.social/@infinl@mastodon.nl"
@@ -20,9 +20,6 @@
     <A clazz="bg-black/10 p-8 inline-flex items-center gap-2" href="https://www.instagram.com/infi.nl"
       ><SimpleIcon icon={siInstagram} /> Instagram</A
     >
-  </div>
-  <div>
-    <A clazz="bg-black/10 p-8 inline-flex items-center gap-2" href="https://twitter.com/infinl"><SimpleIcon icon={siX} /> X / Twitter</A>
   </div>
   <div><A clazz="bg-black/10 p-8 inline-block" href="https://www.linkedin.com/company/infinl">LinkedIn</A></div>
   <div>

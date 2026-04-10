@@ -5,7 +5,7 @@ name: Deploy Sveltekit site to Pages
 on:
   # Triggers the workflow on push but only for the "main" branch
   push:
-    branches: [ "main" ]
+    branches: ['main']
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
@@ -18,7 +18,7 @@ permissions:
 # Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
 # However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
 concurrency:
-  group: "pages"
+  group: 'pages'
   cancel-in-progress: false
 
 jobs:
@@ -27,18 +27,18 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v6
       - name: Setup Node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v6
         with:
-          node-version: "20"
+          node-version: '24'
           cache: npm
       - name: Setup Pages
-        uses: actions/configure-pages@v3
+        uses: actions/configure-pages@v6
         with:
           static_site_generator: sveltekit
       - name: Restore cache
-        uses: actions/cache@v3
+        uses: actions/cache@v5
         with:
           path: |
             .sveltekit
@@ -52,7 +52,7 @@ jobs:
       - name: Build with Sveltekit
         run: npm run build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v4
         with:
           path: ./build
 
@@ -66,4 +66,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v5

@@ -23,7 +23,7 @@
       </div>
     </div>
     <div>
-      <div class="my-1 text-xl">We houden een paar jaartjes pauze...</div>
+      <div class="my-1 text-xl">We houden een paar jaartjes pauze&hellip;</div>
     </div>
   </div>
   <div class="flex items-center gap-2 md:gap-4 lg:gap-8">

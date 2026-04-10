@@ -50,7 +50,7 @@
 
   <p>
     Oh, en om het toch een beetje extra speciaal te maken, hebben we ook <strong>een externe spreker voor een “Keynote”</strong>. In 2019
-    was kwam <strong>Nadieh Bremer</strong> ons vertellen over haar expertise en in 2020 hadden we<strong> Simon Brown</strong> als spreker!
+    was kwam <strong>Nadieh Bremer</strong> ons vertellen over haar expertise en in 2020 hadden we <strong>Simon Brown</strong> als spreker!
     En dit jaar komt <strong>Felienne Hermans</strong> ons iets vertellen over haar boek “The Programmer's Brain”.
   </p>
 

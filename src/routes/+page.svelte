@@ -16,7 +16,23 @@
       <p>
         Onze <a href="/edities">voorgaande edities</a> waren in 2018 (voor onszelf), <a href="/2019">2019</a>, <a href="/2020">2020</a>
         (locked down) en <a href="/2022">2022</a>. Geen vast ritme, maar we doen het graag, dus in de toekomst kun je uiteraard nieuwe
-        edities verwachten!
+        edities verwachten.
+      </p>
+
+      <h2>Infi-Con keert terug in 2026!</h2>
+
+      <p>
+        Na een paar jaar pauze vinden we het hoog tijd voor een nieuwe editie van Infi-Con. Daarom zijn we die nu druk (achter de schermen)
+        aan het voorbereiden. En we kunnen in ieder geval verklappen: We hebben een datum!
+      </p>
+
+      <p>
+        Wil je er graag bij zijn? Reserveer dan alvast <strong>donderdag 11 juni</strong> van <strong>12:30 tot 17:00</strong> in je agenda.
+      </p>
+
+      <p>
+        Binnenkort zullen we het thema en programma onthullen. Je krijgt dan ook de mogelijkheid <a href="/aanmelden">om je aan te melden</a
+        >.
       </p>
 
       <h2>Op de hoogte blijven?</h2>

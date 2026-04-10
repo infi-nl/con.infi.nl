@@ -7,6 +7,6 @@
   $: text = isActive ? 'text-black bg-white/30' : '';
 </script>
 
-<a {href} class={`inline-block px-4 py-2 font-bold bg-white/20 hover:bg-white/30 transition-all ${text} ${clazz}`}>
+<a {href} class={`inline-block px-4 py-2 font-bold uppercase bg-white/20 hover:bg-white/30 transition-all ${text} ${clazz}`}>
   <slot />
 </a>

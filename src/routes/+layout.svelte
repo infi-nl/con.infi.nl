@@ -7,7 +7,7 @@
   <header class="bg-black/50 py-4">
     <nav class="mx-auto flex flex-wrap gap-2 justify-center">
       <a class="p-1 bg-orange-500 font-bold mr-8 hidden lg:inline-block" href="/">
-        <img src="/img/logo.png" alt="logo van Infi" class="h-[32px]" /></a
+        <img src="/img/logo.png" alt="logo van Infi" class="h-8" /></a
       >
       <NavItem href="/">Home</NavItem>
       <NavItem href="/aanmelden">Aanmelden</NavItem>
@@ -23,7 +23,7 @@
 
   <footer class="mt-auto">
     <div class="mt-8 py-4 bg-linear-to-r from-black to-black/80 shadow-inner opacity-80">
-      <div class="mx-auto max-w-[1024px] px-8">
+      <div class="mx-auto max-w-5xl px-8">
         <a class="hover:text-orange-500 hover:opacity-100 opacity-60" href="https://infi.nl">infi.nl</a>
         |
         <a class="hover:text-orange-500 hover:opacity-100 opacity-60" href="mailto:community@infi.nl">community@infi.nl</a>

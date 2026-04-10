@@ -8,12 +8,16 @@
 
 <SimplePageContent>
   <p>
-    Sorry! Er is nog geen nieuwe Infi Con gepland. Je kunt je momenteel dus ook niet voor een volgend event aanmelden, maar wel lief dat je
-    toch al hier even kwam buurten!
+    Goed nieuws! Er is een nieuwe Infi-Con gepland! De <strong>2026 editie</strong> zal plaatsvinden op <strong>donderdag 11 juni</strong>
+    van <strong>12:30 tot 17:00</strong>.
   </p>
   <p>
-    Wil je op de hoogte blijven van wanneer de volgende Infi Con is, of gewoon in het algemeen ons <strike>stalken</strike> volgen? Dat kan op
-    een plek naar je eigen keuze!
+    Helaas kan je je op dit moment nog niet aanmelden, maar leuk dat je alvast even kwam kijken. Zodra de inschrijving wordt geopend, en het
+    thema en programma bekend zijn, zullen we dat op alle kanalen aankondigen.
+  </p>
+  <p>
+    Wil je op de hoogte blijven over de volgende Infi-Con, of gewoon in het algemeen volgen wat we doen? Dat kan op een platform naar jouw
+    keuze!
   </p>
   <Socials />
 </SimplePageContent>

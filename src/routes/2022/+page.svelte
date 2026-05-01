@@ -1,9 +1,9 @@
 <script>
-  import A from "$lib/components/A.svelte";
+  import A from '$lib/components/A.svelte';
 </script>
 
 <div class="mx-auto mb-16 max-w-[1024px] mt-16">
-  <div class="mx-4 text-center p-8 rounded-2xl bg-white/80 text-stone-800">
+  <div class="mx-4 text-center p-8 rounded-lg bg-white/80 text-stone-800">
     <article class="prose lg:prose-lg max-w-none">
       <h1>Infi-Con: 20 oktober 2022</h1>
 

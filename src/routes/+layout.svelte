@@ -9,13 +9,12 @@
       <a class="p-1 bg-orange-500 font-bold mr-8 hidden lg:inline-block" href="/">
         <img src="/img/logo.png" alt="logo van Infi" class="h-8" /></a
       >
-      <NavItem href="/">Home</NavItem>
       <NavItem href="/aanmelden">Aanmelden</NavItem>
       <NavItem href="/2026/programma">Programma</NavItem>
-      <!-- <NavItem href="/2024/praktisch">Praktisch</NavItem> -->
+      <NavItem href="/2026/praktisch">Praktisch</NavItem>
       <NavItem href="/over-ons">Over ons</NavItem>
       <NavItem href="/faq">F.A.Q.</NavItem>
-      <NavItem href="/edities" clazz="ml-0 lg:ml-8">Voorgaande edities</NavItem>
+      <NavItem href="/edities" clazz="ml-0 lg:ml-8">Alle Edities</NavItem>
     </nav>
   </header>
 

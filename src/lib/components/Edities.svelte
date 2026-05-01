@@ -13,7 +13,10 @@
     </div>
     <div>
       <div class="my-1 text-3xl">Infi-Con 2026</div>
-      <div class="my-1 text-xl">Infi-Con keert terug!</div>
+      <div class="my-1 text-xl">
+        <AnchorButton href="/2026">2026 Home</AnchorButton>
+        <AnchorButton href="/2026/programma">Programma</AnchorButton>
+      </div>
     </div>
   </div>
   <div class="flex items-center gap-2 md:gap-4 lg:gap-8 opacity-50 saturate-50">

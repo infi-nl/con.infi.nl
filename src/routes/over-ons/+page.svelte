@@ -51,16 +51,8 @@
   <p>
     Oh, en om het toch een beetje extra speciaal te maken, hebben we ook <strong>een externe spreker voor een “Keynote”</strong>. In 2019
     was kwam <strong>Nadieh Bremer</strong> ons vertellen over haar expertise en in 2020 hadden we <strong>Simon Brown</strong> als spreker!
-    En dit jaar komt <strong>Felienne Hermans</strong> ons iets vertellen over haar boek “The Programmer's Brain”.
-  </p>
-
-  <h2>Over de organisatie van de 2022 editie</h2>
-
-  <p>
-    De structuur bij Infi is bijzonder plat en daar zijn we erg gelukkig mee! Dat betekent dus ook dat <strong
-      >onze eigen developers Infi-Con organiseren</strong
-    >, met goed wat hulp uit allerhande hoeken! De huidige organisatie (zelfs als het even stilligt) kun je bereiken op
-    <a href="mailto:community@infi.nl">community@infi.nl</a>
+    In 2022 kwam <strong>Felienne Hermans</strong> ons iets vertellen over haar boek “The Programmer's Brain”. En in 2026 is
+    <strong>Dylan Beattie</strong> onze keynote spreker.
   </p>
 
   <h2>Edities &amp; vorige jaren</h2>

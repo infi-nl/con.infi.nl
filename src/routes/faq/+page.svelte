@@ -14,7 +14,7 @@
     And usually that's Dutch, sometimes English.
   </p>
 
-  <p>We do love to invite keynote speakers also from other countries, so there's a good chance that presentation would be in English.</p>
+  <p>We do love to invite international keynote speakers, so there's a good chance their presentation would be in English.</p>
 
   <h2>Waar vind ik info over de 2026 editie?</h2>
   <p>Hier de links:</p>

@@ -7,7 +7,10 @@
 
 <SimplePageContent>
   <h2>Contact</h2>
-  <p>Voor vragen, kijk eens op onze <a href="/faq">F.A.Q.</a> of mail ons op <strong>community [at] infi.nl</strong>.</p>
+  <p>
+    Voor vragen, kijk eens op onze <a href="/faq">F.A.Q.</a> of mail ons op
+    <strong><a href="mailto:community@infi.nl">community@infi.nl</a></strong>.
+  </p>
 
   <h2>Datum en Tijd</h2>
   <p>Inloop is <strong>donderdag 11 juni vanaf 12:30</strong>. Om <strong>13:00 stipt beginnen de praatjes</strong>.</p>

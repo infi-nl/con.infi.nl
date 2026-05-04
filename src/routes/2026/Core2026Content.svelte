@@ -16,5 +16,5 @@
     >
   </div>
 
-  <p>In 2026 over tech dat briljant en absurd tegelijk is. Keynote Speaker: Dylan Beattie!</p>
+  <p>In 2026 over tech dat briljant en absurd tegelijk is. Keynote Speaker: <strong>Dylan Beattie</strong>!</p>
 </div>

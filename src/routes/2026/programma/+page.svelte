@@ -27,7 +27,7 @@
     <li>13:15 - 14:00 <strong>Thomas Abbink: Shadery Business</strong></li>
     <li>14:00 - 14:15 Pauze</li>
     <li>14:15 - 15:00 <strong>Bas van Doren: Marvin the Martian &amp; dancing around the Roomba</strong></li>
-    <li>15:00 - 15:45 <strong>(Speaker T.B.A.): (Subject T.B.A.)</strong></li>
+    <li>15:00 - 15:45 <strong>(To be announced.)</strong></li>
     <li>15:45 - 16:00 Pauze</li>
     <li>16:00 - 16:50 <strong>[KEYNOTE] - <A href="https://dylanbeattie.net/">Dylan Beattie</A>: <A href="https://dylanbeattie.net/talks/how-to-be-a-rockstar-developer.html">How To Be a Rockstar Developer</A></strong></li>
     <li>16:50 - 17:00 <strong>Daniel Roy: Afsluiting</strong></li>

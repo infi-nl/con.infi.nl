@@ -20,7 +20,7 @@
   >
   <p>
     En: fijn als je jouw RSVP up to date houdt. Aangemeld, maar kun je toch echt niet komen? Stuur dan een kort mailtje naar <strong
-      >community [at] infi.nl</strong
+      ><a href="mailto:community@infi.nl">community@infi.nl</a></strong
     >
   </p>
 </SimplePageContent>

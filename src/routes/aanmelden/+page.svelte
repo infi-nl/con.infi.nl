@@ -1,23 +1,26 @@
 <script lang="ts">
+  import A from '$lib/components/A.svelte';
   import SimplePageContent from '$lib/components/SimplePageContent.svelte';
   import SimplePageHeader from '$lib/components/SimplePageHeader.svelte';
-  import Socials from '$lib/components/Socials.svelte';
 </script>
 
-<SimplePageHeader>Aanmelden</SimplePageHeader>
+<SimplePageHeader>Aanmelden Infi-Con 2026</SimplePageHeader>
 
 <SimplePageContent>
   <p>
-    Goed nieuws! Er is een nieuwe Infi-Con gepland! De <strong>2026 editie</strong> zal plaatsvinden op <strong>donderdag 11 juni</strong>
-    van <strong>12:30 tot 17:00</strong>.
+    De <strong>2026 editie</strong> zal plaatsvinden op <strong>donderdag 11 juni</strong>
+    van <strong>12:30 tot 17:00</strong> (<A href="/2026/programma">programma</A>). Aanmelden kan via onderstaand formulier:
   </p>
+  <a
+    href="https://forms.office.com/e/D2JhfgaCCP"
+    rel="noreferer"
+    target="_blank"
+    class="bg-black/10 hover:bg-black/20 border border-black/30 rounded-lg h-64 w-full flex items-center justify-center text-orange-600 no-underline"
+    >Ga naar het aanmeldformulier...</a
+  >
   <p>
-    Helaas kan je je op dit moment nog niet aanmelden, maar leuk dat je alvast even kwam kijken. Zodra de inschrijving wordt geopend, en het
-    thema en programma bekend zijn, zullen we dat op alle kanalen aankondigen.
+    En: fijn als je jouw RSVP up to date houdt. Aangemeld, maar kun je toch echt niet komen? Stuur dan een kort mailtje naar <strong
+      ><a href="mailto:community@infi.nl">community@infi.nl</a></strong
+    >
   </p>
-  <p>
-    Wil je op de hoogte blijven over de volgende Infi-Con, of gewoon in het algemeen volgen wat we doen? Dat kan op een platform naar jouw
-    keuze!
-  </p>
-  <Socials />
 </SimplePageContent>

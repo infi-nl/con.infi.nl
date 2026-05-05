@@ -9,21 +9,20 @@
   <h2>Is it in Dutch or English?</h2>
 
   <p>
-    <strong>Sorry, our event is (mostly) in Dutch.</strong> We consider it an “open source” version of our internal event. Most of our colleagues
+    <strong>Sorry, our event is (largely) in Dutch.</strong> We consider it an “open source” version of our internal event. Most of our colleagues
     who are speaking aren't professional speakers, and we want to give them a choice to speak in the language they are most comfortable with.
-    And usually that's Dutch.
+    And usually that's Dutch, sometimes English.
   </p>
 
-  <h2>Waar is Infi-Con eigenlijk?</h2>
+  <p>We do love to invite international keynote speakers, so there's a good chance their presentation would be in English.</p>
 
-  <p>
-    In 2022 was op ons kantoor in Utrecht de laatste editie van Infi-Con. Zeer goede kans dat een volgende editie daar ook zal zijn. Stay
-    tuned!
-  </p>
-
-  <h2>Hoe laat is Infi-Con?</h2>
-
-  <p>We doen Infi-Con doorgaans in de middag, met afsluitend een borrel.</p>
+  <h2>Waar vind ik info over de 2026 editie?</h2>
+  <p>Hier de links:</p>
+  <ul>
+    <li><a href="/2026/programma">Programma</a></li>
+    <li><a href="/aanmelden">Aanmeldpagina</a></li>
+    <li><a href="/2026/praktisch">Praktische info (tijden, locatie, bereikbaarheid, toegankelijkheid)</a></li>
+  </ul>
 
   <h2>Waarom is het tijdens kantooruren?</h2>
 
@@ -58,8 +57,8 @@
   <h2>Is er de mogelijkheid om op een rustige plek even bij te komen?</h2>
 
   <p>
-    Voorgaande editie hadden we, voor mensen die daar behoefte aan hebben, een stilteruimte. Dus ben je overprikkeld of heb je even behoefte
-    aan stilte dan kan je daar je rust pakken.
+    Bij elke editie zorgen we voor een stilteruimte of equivalent daarvan. Als je dus even behoefte hebt aan wat minder prikkels zijn er
+    voldoende plekken daarvoor.
   </p>
 
   <h2>Wie zijn jullie eigenlijk?</h2>

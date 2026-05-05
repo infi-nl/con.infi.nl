@@ -22,16 +22,17 @@
   <h2>Donderdag 11 juni 2022, 12:30 - 17:00 @ Infi Utrecht</h2>
   <!-- prettier-ignore -->
   <ul>
-    <li>12:30 - 13:00 Inloop, met koffie, thee, fris en wat lichte (o.a. vegan) snacks</li>
-    <li>13:00 - 13:15 <strong>Jeroen Heijmans: Opening</strong></li>
-    <li>13:15 - 14:00 <strong>Thomas Abbink: Shadery Business</strong></li>
-    <li>14:00 - 14:15 Pauze</li>
-    <li>14:15 - 15:00 <strong>Bas van Doren: Marvin the Martian &amp; dancing around the Roomba</strong></li>
-    <li>15:00 - 15:45 <strong>(To be announced.)</strong></li>
-    <li>15:45 - 16:00 Pauze</li>
-    <li>16:00 - 16:50 <strong>[KEYNOTE] - <A href="https://dylanbeattie.net/">Dylan Beattie</A>: <A href="https://dylanbeattie.net/talks/how-to-be-a-rockstar-developer.html">How To Be a Rockstar Developer</A></strong></li>
-    <li>16:50 - 17:00 <strong>Daniel Roy: Afsluiting</strong></li>
-    <li>17:00 - 19:00 Borrel!</li>
+    <li>12:30 Inloop, met koffie, thee, fris en wat lichte (o.a. vegan) snacks</li>
+    <li>13:00 <strong>Jeroen Heijmans: Opening</strong></li>
+    <li>13:05 <strong>Thomas Abbink: Shadery Business</strong></li>
+    <li>13:30 <strong>Steven Thonus: Bike Shedding Bike Rides</strong></li>
+    <li>14:00 Pauze</li>
+    <li>14:30 <strong>Joris Mak: Getting ComfyUI</strong></li>
+    <li>15:00 <strong>Bas van Doren: Marvin the Martian &amp; dancing around the Roomba</strong></li>
+    <li>15:30 Pauze</li>
+    <li>16:00 <strong>[KEYNOTE] - <A href="https://dylanbeattie.net/">Dylan Beattie</A>: <A href="https://dylanbeattie.net/talks/how-to-be-a-rockstar-developer.html">How To Be a Rockstar Developer</A></strong></li>
+    <li>16:55 <strong>Daniel Roy: Afsluiting</strong></li>
+    <li>17:00 Borrel!</li>
   </ul>
 
   <p>

@@ -36,7 +36,7 @@
   </ul>
 
   <p>
-    Let op: de meeste praatjes zullen in het <em>Nederlands</em> gegeven worden, een enkeling wellicht in het <em>Engels</em>. De key note
+    Let op: de meeste praatjes zullen in het <em>Nederlands</em> gegeven worden, een enkeling wellicht in het <em>Engels</em>. De keynote
     is sowieso in het Engels.
   </p>
 

@@ -19,7 +19,7 @@
     >! Hij komt vertellen over de <em>Rockstar</em> programmeertaal, iets wat je zeker niet wilt missen.
   </p>
 
-  <h2>Donderdag 11 juni 2022, 12:30 - 17:00 @ Infi Utrecht</h2>
+  <h2>Donderdag 11 juni 2026, 12:30 - 17:00 @ Infi Utrecht</h2>
   <!-- prettier-ignore -->
   <ul>
     <li>12:30 Inloop, met koffie, thee, fris en wat lichte (o.a. vegan) snacks</li>

@@ -6,7 +6,7 @@
 
 <SimplePageHeader>F.A.Q.</SimplePageHeader>
 <SimplePageContent>
-  <h2>Is it in Dutch or English?</h2>
+  <h2>Is the event in Dutch or English?</h2>
 
   <p>
     <strong>Sorry, our event is (largely) in Dutch.</strong> We consider it an “open source” version of our internal event. Most of our colleagues
@@ -45,7 +45,7 @@
 
   <p>
     Zeker! Waarschijnlijk als je je normaal gedraagt en alle aanwezigen met respect behandelt, zit je goed. Als je meer details wilt, lees
-    dan s.v.p. <a href="/code-of-conduct">onze uitgebreide Code of Conduct</a> pagina.
+    dan s.v.p. <a href="/code-of-conduct">onze uitgebreide Code of Conduct</a>.
   </p>
 
   <p>

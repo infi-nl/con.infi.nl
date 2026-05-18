@@ -36,13 +36,13 @@
   </ul>
 
   <p>
-    Let op: de meeste praatjes zullen in het <em>Nederlands</em> gegeven worden, een enkeling wellicht in het <em>Engels</em>. De keynote
-    is sowieso in het Engels.
+    Let op: de meeste praatjes zullen in het <em>Nederlands</em> gegeven worden, een enkeling wellicht in het <em>Engels</em>. De keynote is
+    sowieso in het Engels.
   </p>
 
   <hr />
 
   <p>
-    PS. Mocht je dat zoeken, er is <a href="/edities">een aparte pagina over voorgaande edities</a>.
+    P.S. Mocht je dat zoeken, er is <a href="/edities">een aparte pagina over voorgaande edities</a>.
   </p>
 </SimplePageContent>

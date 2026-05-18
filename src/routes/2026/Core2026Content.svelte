@@ -1,5 +1,5 @@
 <div>
-  <p><strong>Infi-Con 2026</strong> is op <strong>DO 11 JUNI</strong>, inloop vanaf 12:30 en start om 13:00!</p>
+  <p><strong>Infi-Con 2026</strong> is op <strong>DO 11 JUNI</strong>, inloop vanaf 12:30 uur en start om 13:00 uur!</p>
 
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4 justify-center">
     <a
@@ -16,5 +16,5 @@
     >
   </div>
 
-  <p>In 2026 over tech dat briljant en absurd tegelijk is. Keynote Speaker: <strong>Dylan Beattie</strong>!</p>
+  <p>In 2026 over tech die briljant en absurd tegelijk is. Keynote Speaker: <strong>Dylan Beattie</strong>!</p>
 </div>

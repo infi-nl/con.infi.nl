@@ -10,8 +10,8 @@
   <h2>Over Infi</h2>
 
   <p>
-    <span
-      >Infi ontwikkelt al ruim 20 jaar geavanceerde software en webapplicaties die jouw plannen een fundering geven. We ontwikkelen
+    <span>
+      Infi ontwikkelt al ruim 20 jaar geavanceerde software en webapplicaties die jouw plannen een fundering geven. We ontwikkelen
       voornamelijk slimme webapplicaties en mobiele apps.
     </span>
   </p>
@@ -40,7 +40,7 @@
   <p>
     In <strong>2020 zetten we door met Infi-Con</strong>. Dat jaar regelden we het vanuit Infi Amsterdam, maar vanwege de aangescherpte
     corona-maatregelen <strong>volledig virtueel</strong>. De wereld is met Corona in 2021 op z’n kop, waardoor de editie van dat jaar geen
-    doorgang kon vinden. In 2022 zijn we echter weer terug!
+    doorgang kon vinden. In 2022 waren we echter weer terug! Na wat stillere jaren pakken we de draad weer op in 2026.
   </p>
 
   <p>

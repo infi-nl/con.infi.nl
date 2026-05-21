@@ -9,8 +9,10 @@
 <SimplePageContent>
   <p>
     De <strong>2026 editie</strong> zal plaatsvinden op <strong>donderdag 11 juni</strong>
-    van <strong>12:30 tot 17:00</strong> (<A href="/2026/programma">programma</A>). Aanmelden kan via onderstaand formulier:
+    van <strong>12:30 tot 17:00</strong> (<A href="/2026/programma">programma</A>) op kantoor bij Infi (Arthur van Schendelstraat 500, 3511
+    MH, Utrecht).
   </p>
+  <p>Aanmelden kan via onderstaand formulier:</p>
   <a
     href="https://forms.office.com/e/D2JhfgaCCP"
     rel="noreferer"

@@ -1,5 +1,8 @@
 <div>
-  <p><strong>Infi-Con 2026</strong> is op <strong>DO 11 JUNI</strong>, inloop vanaf 12:30 uur en start om 13:00 uur!</p>
+  <p>
+    <strong>Infi-Con 2026</strong> is op <strong>DO 11 JUNI</strong>, inloop vanaf 12:30 uur en start om 13:00 uur!<br />Locatie: Infi
+    Utrecht, Arthur van Schendelstraat 500, 3511 MH, Utrecht.
+  </p>
 
   <div class="grid grid-cols-1 md:grid-cols-3 gap-4 justify-center">
     <a

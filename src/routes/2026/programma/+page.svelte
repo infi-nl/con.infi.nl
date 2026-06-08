@@ -24,10 +24,10 @@
   <ul>
     <li>12:30 Inloop, met koffie, thee, fris en wat lichte (o.a. vegan) snacks</li>
     <li>13:00 <strong>Jeroen Heijmans: Opening</strong></li>
-    <li>13:05 <strong>Thomas Abbink: Shadery Business</strong></li>
+    <li>14:30 <strong>Joris Mak: Getting ComfyUI</strong></li>
     <li>13:30 <strong>Steven Thonus: Bike Shedding Bike Rides</strong></li>
     <li>14:00 Pauze</li>
-    <li>14:30 <strong>Joris Mak: Getting ComfyUI</strong></li>
+    <li>13:05 <strong>Thomas Abbink: Shadery Business</strong></li>
     <li>15:00 <strong>Bas van Doren: Marvin the Martian &amp; dancing around the Roomba</strong></li>
     <li>15:30 Pauze</li>
     <li>16:00 <strong>[KEYNOTE] - <A href="https://dylanbeattie.net/">Dylan Beattie</A>: <A href="https://dylanbeattie.net/talks/how-to-be-a-rockstar-developer.html">How To Be a Rockstar Developer</A></strong></li>

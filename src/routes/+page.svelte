@@ -8,10 +8,6 @@
     <article class="prose lg:prose-lg max-w-[80ch] text-center">
       <h1>Infi-Con</h1>
 
-      <Core2026Content />
-
-      <hr class="border-black/20" />
-
       <p>
         Ruwweg iedere één a twee jaar (wanneer het goed voelt) organiseren we <strong>Infi-Con</strong>:<br />
         Onze kennisdelingsmiddag, opengesteld voor alle liefhebbers. Met sprekers van Infi zelf, een goede keynote van een bekende (gast)spreker

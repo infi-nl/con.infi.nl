@@ -13,6 +13,7 @@
     </div>
     <div>
       <div class="my-1 text-3xl">Infi-Con 2026</div>
+      <div class="my-1 text-xl">Locatie: Utrecht. Bezoekers: ~70.</div>
       <div class="my-1 text-xl">
         <AnchorButton href="/2026">2026 Home</AnchorButton>
         <AnchorButton href="/2026/programma">Programma</AnchorButton>

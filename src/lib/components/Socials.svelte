@@ -1,35 +1,35 @@
 <script>
-  import SimpleIcon from '$lib/components/SimpleIcon.svelte';
+  import SimpleIcon from '#lib/components/SimpleIcon.svelte';
   import { siRss, siMastodon, siBluesky, siInstagram, siGithub } from 'simple-icons';
 </script>
 
-<div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 justify-center mx-20">
+<div class="mx-20 grid grid-cols-1 justify-center gap-4 sm:grid-cols-2 md:grid-cols-3">
   <a
-    class="bg-black/10 p-8 text-center no-underline hover:bg-black/30 transition-all"
+    class="bg-black/10 p-8 text-center no-underline transition-all hover:bg-black/30"
     target="_blank"
     rel="noreferer"
     href="https://infi.nl/blog"><SimpleIcon icon={siRss} />Ons blog</a
   >
   <a
-    class="bg-black/10 p-8 text-center no-underline hover:bg-black/30 transition-all"
+    class="bg-black/10 p-8 text-center no-underline transition-all hover:bg-black/30"
     target="_blank"
     rel="noreferer"
     href="https://mastodon.social/@infinl@mastodon.nl"><SimpleIcon icon={siMastodon} /> Mastodon</a
   >
   <a
-    class="bg-black/10 p-8 text-center no-underline hover:bg-black/30 transition-all"
+    class="bg-black/10 p-8 text-center no-underline transition-all hover:bg-black/30"
     target="_blank"
     rel="noreferer"
     href="https://bsky.app/profile/infi.nl"><SimpleIcon icon={siBluesky} /> Bluesky</a
   >
   <a
-    class="bg-black/10 p-8 text-center no-underline hover:bg-black/30 transition-all"
+    class="bg-black/10 p-8 text-center no-underline transition-all hover:bg-black/30"
     target="_blank"
     rel="noreferer"
     href="https://www.instagram.com/infi.nl"><SimpleIcon icon={siInstagram} /> Instagram</a
   >
   <a
-    class="bg-black/10 p-8 text-center no-underline hover:bg-black/30 transition-all"
+    class="bg-black/10 p-8 text-center no-underline transition-all hover:bg-black/30"
     target="_blank"
     rel="noreferer"
     href="https://www.linkedin.com/company/infinl"
@@ -48,7 +48,7 @@
     LinkedIn
   </a>
   <a
-    class="bg-black/10 p-8 text-center no-underline hover:bg-black/30 transition-all"
+    class="bg-black/10 p-8 text-center no-underline transition-all hover:bg-black/30"
     target="_blank"
     rel="noreferer"
     href="https://github.com/infi-nl"><SimpleIcon icon={siGithub} /> GitHub</a

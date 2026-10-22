@@ -1,12 +1,12 @@
 <script lang="ts">
-  import NavItem from '$lib/components/NavItem.svelte';
+  import NavItem from '#lib/components/NavItem.svelte';
   import '../app.css';
 </script>
 
-<div class="min-h-screen flex flex-col bg-stone-900 text-white/90 bg-top bg-cover bg-fixed bg-[url('/img/home-bg.jpg')]">
+<div class="flex min-h-screen flex-col bg-stone-900 bg-[url('/img/home-bg.jpg')] bg-cover bg-fixed bg-top text-white/90">
   <header class="bg-black/50 py-4">
-    <nav class="mx-auto flex flex-wrap gap-2 justify-center">
-      <a class="p-1 bg-orange-500 font-bold mr-8 hidden lg:inline-block" href="/">
+    <nav class="mx-auto flex flex-wrap justify-center gap-2">
+      <a class="mr-8 hidden bg-orange-500 p-1 font-bold lg:inline-block" href="/">
         <img src="/img/logo.png" alt="logo van Infi" class="h-8" /></a
       >
       <NavItem href="/aanmelden">Aanmelden</NavItem>
@@ -21,11 +21,11 @@
   <slot />
 
   <footer class="mt-auto">
-    <div class="mt-8 py-4 bg-linear-to-r from-black to-black/80 shadow-inner opacity-80">
+    <div class="mt-8 bg-linear-to-r from-black to-black/80 py-4 opacity-80 shadow-inner">
       <div class="mx-auto max-w-5xl px-8">
-        <a class="hover:text-orange-500 hover:opacity-100 opacity-60" href="https://infi.nl">infi.nl</a>
+        <a class="opacity-60 hover:text-orange-500 hover:opacity-100" href="https://infi.nl">infi.nl</a>
         |
-        <a class="hover:text-orange-500 hover:opacity-100 opacity-60" href="mailto:community@infi.nl">community@infi.nl</a>
+        <a class="opacity-60 hover:text-orange-500 hover:opacity-100" href="mailto:community@infi.nl">community@infi.nl</a>
       </div>
     </div>
   </footer>

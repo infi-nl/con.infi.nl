@@ -1,7 +1,7 @@
 <script>
-  import SimplePageContent from '$lib/components/SimplePageContent.svelte';
-  import SimplePageHeader from '$lib/components/SimplePageHeader.svelte';
-  import A from '$lib/components/A.svelte';
+  import SimplePageContent from '#lib/components/SimplePageContent.svelte';
+  import SimplePageHeader from '#lib/components/SimplePageHeader.svelte';
+  import A from '#lib/components/A.svelte';
 </script>
 
 <SimplePageHeader>Programma Infi-Con 2020</SimplePageHeader>

@@ -4,9 +4,9 @@
 
 <div class="flex flex-col gap-4 lg:gap-8">
   <div class="flex items-center gap-2 md:gap-4 lg:gap-8">
-    <div class="w-32 items-center justify-center hidden md:flex">
+    <div class="hidden w-32 items-center justify-center md:flex">
       <div
-        class="border-12 border-orange-500 bg-orange-200 rounded-full w-32 h-32 text-center flex flex-col justify-center text-4xl font-bold"
+        class="flex h-32 w-32 flex-col justify-center rounded-full border-12 border-orange-500 bg-orange-200 text-center text-4xl font-bold"
       >
         2026
       </div>
@@ -20,9 +20,9 @@
       </div>
     </div>
   </div>
-  <div class="flex items-center gap-2 md:gap-4 lg:gap-8 opacity-50 saturate-50">
-    <div class="w-32 items-center justify-center hidden md:flex">
-      <div class="border-2 border-orange-500 bg-orange-100 rounded-full w-24 h-24 text-center flex flex-col justify-center text-base">
+  <div class="flex items-center gap-2 opacity-50 saturate-50 md:gap-4 lg:gap-8">
+    <div class="hidden w-32 items-center justify-center md:flex">
+      <div class="flex h-24 w-24 flex-col justify-center rounded-full border-2 border-orange-500 bg-orange-100 text-center text-base">
         2025 <br />⋮<br /> 2023
       </div>
     </div>
@@ -31,9 +31,9 @@
     </div>
   </div>
   <div class="flex items-center gap-2 md:gap-4 lg:gap-8">
-    <div class="w-32 items-center justify-center hidden md:flex">
+    <div class="hidden w-32 items-center justify-center md:flex">
       <div
-        class="border-12 border-orange-500 bg-orange-200 rounded-full w-32 h-32 text-center flex flex-col justify-center text-4xl font-bold"
+        class="flex h-32 w-32 flex-col justify-center rounded-full border-12 border-orange-500 bg-orange-200 text-center text-4xl font-bold"
       >
         2022
       </div>
@@ -50,22 +50,22 @@
       </div>
     </div>
   </div>
-  <div class="flex items-center gap-2 md:gap-4 lg:gap-8 opacity-50 saturate-50">
-    <div class="w-32 items-center justify-center hidden md:flex">
-      <div class="border-2 border-orange-500 bg-orange-100 rounded-full w-14 h-14 text-center flex flex-col justify-center text-base">
+  <div class="flex items-center gap-2 opacity-50 saturate-50 md:gap-4 lg:gap-8">
+    <div class="hidden w-32 items-center justify-center md:flex">
+      <div class="flex h-14 w-14 flex-col justify-center rounded-full border-2 border-orange-500 bg-orange-100 text-center text-base">
         2021
       </div>
     </div>
     <div>
-      <div class="my-1 text-3xl block md:hidden">Infi-Con 2021</div>
+      <div class="my-1 block text-3xl md:hidden">Infi-Con 2021</div>
       <div class="my-1 text-xl">Geannuleerd wegens o.a. COVID-19 maatregelen.</div>
     </div>
   </div>
 
   <div class="flex items-center gap-2 md:gap-4 lg:gap-8">
-    <div class="w-32 items-center justify-center hidden md:flex">
+    <div class="hidden w-32 items-center justify-center md:flex">
       <div
-        class="border-12 border-orange-500 bg-orange-100 rounded-full w-28 h-28 text-center flex flex-col justify-center text-2xl font-bold"
+        class="flex h-28 w-28 flex-col justify-center rounded-full border-12 border-orange-500 bg-orange-100 text-center text-2xl font-bold"
       >
         2020
       </div>
@@ -84,9 +84,9 @@
   </div>
 
   <div class="flex items-center gap-2 md:gap-4 lg:gap-8">
-    <div class="w-32 items-center justify-center hidden md:flex">
+    <div class="hidden w-32 items-center justify-center md:flex">
       <div
-        class="border-12 border-orange-500 bg-orange-200 rounded-full w-32 h-32 text-center flex flex-col justify-center text-4xl font-bold"
+        class="flex h-32 w-32 flex-col justify-center rounded-full border-12 border-orange-500 bg-orange-200 text-center text-4xl font-bold"
       >
         2019
       </div>
@@ -104,9 +104,9 @@
     </div>
   </div>
   <div class="flex items-center gap-2 md:gap-4 lg:gap-8">
-    <div class="w-32 items-center justify-center hidden md:flex">
+    <div class="hidden w-32 items-center justify-center md:flex">
       <div
-        class="border-8 border-orange-500 bg-orange-50 rounded-full w-20 h-20 text-center flex flex-col justify-center text-xl font-bold"
+        class="flex h-20 w-20 flex-col justify-center rounded-full border-8 border-orange-500 bg-orange-50 text-center text-xl font-bold"
       >
         2018
       </div>

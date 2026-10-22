@@ -3,8 +3,8 @@
   "singleQuote": true,
   "trailingComma": "all",
   "printWidth": 140,
-  "plugins": ["prettier-plugin-svelte"],
-  "pluginSearchDirs": ["."],
+  "plugins": ["prettier-plugin-svelte", "prettier-plugin-tailwindcss"],
+  "tailwindStylesheet": "./src/app.css",
   "overrides": [
     { "files": "*.svelte", "options": { "parser": "svelte" } },
     { "files": ["*.ts", "*.js"], "options": { "objectWrap": "preserve" } }

@@ -4,17 +4,17 @@
     Utrecht, Arthur van Schendelstraat 500, 3511 MH, Utrecht.
   </p>
 
-  <div class="grid grid-cols-1 md:grid-cols-3 gap-4 justify-center">
+  <div class="grid grid-cols-1 justify-center gap-4 md:grid-cols-3">
     <a
-      class="bg-orange-500 transition-shadow hover:shadow-[4px_8px_8px_rgba(0,0,0,0.25)] block no-underline text-white rounded p-4"
+      class="block rounded bg-orange-500 p-4 text-white no-underline transition-shadow hover:shadow-[4px_8px_8px_rgba(0,0,0,0.25)]"
       href="/aanmelden">Aanmelden</a
     >
     <a
-      class="bg-orange-500 transition-shadow hover:shadow-[4px_8px_8px_rgba(0,0,0,0.25)] block no-underline text-white rounded p-4"
+      class="block rounded bg-orange-500 p-4 text-white no-underline transition-shadow hover:shadow-[4px_8px_8px_rgba(0,0,0,0.25)]"
       href="/2026/programma">Programma</a
     >
     <a
-      class="bg-orange-500 transition-shadow hover:shadow-[4px_8px_8px_rgba(0,0,0,0.25)] block no-underline text-white rounded p-4"
+      class="block rounded bg-orange-500 p-4 text-white no-underline transition-shadow hover:shadow-[4px_8px_8px_rgba(0,0,0,0.25)]"
       href="/2026/praktisch">Praktisch</a
     >
   </div>

@@ -1,5 +1,5 @@
 import { redirect } from '@sveltejs/kit';
 
 export const load = () => {
-  redirect(307, 'https://forms.office.com/e/yJUAL29bvN');
+  redirect(307, 'https://forms.office.com/e/yJUAL29bvN', { external: ['https://forms.office.com'] });
 };

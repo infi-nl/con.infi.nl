@@ -1,5 +1,5 @@
 <script>
-  import SimpleIcon from '$lib/components/SimpleIcon.svelte';
+  import SimpleIcon from '#lib/components/SimpleIcon.svelte';
   import { siRss, siMastodon, siBluesky, siInstagram, siGithub } from 'simple-icons';
 </script>
 

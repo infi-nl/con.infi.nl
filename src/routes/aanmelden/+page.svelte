@@ -1,9 +1,9 @@
 <script lang="ts">
   import { onMount } from 'svelte';
-  import A from '$lib/components/A.svelte';
-  import Socials from '$lib/components/Socials.svelte';
-  import SimplePageContent from '$lib/components/SimplePageContent.svelte';
-  import SimplePageHeader from '$lib/components/SimplePageHeader.svelte';
+  import A from '#lib/components/A.svelte';
+  import Socials from '#lib/components/Socials.svelte';
+  import SimplePageContent from '#lib/components/SimplePageContent.svelte';
+  import SimplePageHeader from '#lib/components/SimplePageHeader.svelte';
 
   // UTC voor simpelheid, het luistert ook weer niet zo nauw.
   const cutoffTimestamp = Date.UTC(2026, 5, 12);

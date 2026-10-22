@@ -1,7 +1,7 @@
 <script>
-  import Edities from '$lib/components/Edities.svelte';
-  import SimplePageContent from '$lib/components/SimplePageContent.svelte';
-  import SimplePageHeader from '$lib/components/SimplePageHeader.svelte';
+  import Edities from '#lib/components/Edities.svelte';
+  import SimplePageContent from '#lib/components/SimplePageContent.svelte';
+  import SimplePageHeader from '#lib/components/SimplePageHeader.svelte';
 </script>
 
 <SimplePageHeader>Over ons</SimplePageHeader>

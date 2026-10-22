@@ -1,5 +1,5 @@
 <script>
-  import A from '$lib/components/A.svelte';
+  import A from '#lib/components/A.svelte';
 </script>
 
 <div class="mx-auto mb-16 max-w-[1024px] mt-16">

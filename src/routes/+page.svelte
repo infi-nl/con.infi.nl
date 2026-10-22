@@ -1,6 +1,5 @@
 <script lang="ts">
-  import Socials from '$lib/components/Socials.svelte';
-  import Core2026Content from './2026/Core2026Content.svelte';
+  import Socials from '#lib/components/Socials.svelte';
 </script>
 
 <div class="mx-auto mb-16 max-w-5xl mt-4 lg:mt-16">

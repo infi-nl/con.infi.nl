@@ -1,12 +1,13 @@
 <script lang="ts">
-  export let href: string;
-  export let clazz: string = '';
-  import { page } from '$app/stores';
-  $: isForPreviousEdition = ['/2019', '/2020', '/2022'].some((x) => $page.url.pathname.startsWith(x));
-  $: isActive = $page.url.pathname == href || (isForPreviousEdition && href === '/edities');
-  $: text = isActive ? 'text-black bg-white/30' : '';
+  import { page } from '$app/state';
+  import type { Snippet } from 'svelte';
+
+  let { href, clazz = '', children }: { href: string; clazz?: string; children: Snippet } = $props();
+  let isForPreviousEdition = $derived(['/2019', '/2020', '/2022'].some((x) => page.url.pathname.startsWith(x)));
+  let isActive = $derived(page.url.pathname == href || (isForPreviousEdition && href === '/edities'));
+  let text = $derived(isActive ? 'text-black bg-white/30' : '');
 </script>
 
-<a {href} class={`inline-block px-4 py-2 font-bold uppercase bg-white/20 hover:bg-white/30 transition-all ${text} ${clazz}`}>
-  <slot />
-</a>
+<a {href} class={`inline-block px-4 py-2 font-bold uppercase bg-white/20 hover:bg-white/30 transition-all ${text} ${clazz}`}
+  >{@render children()}</a
+>

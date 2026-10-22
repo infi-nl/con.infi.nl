@@ -5,13 +5,10 @@
 </script>
 
 <a
-  class={`
-    inline-block py-1 px-4 mb-1 text-base
-    bg-linear-to-b from-slate-500 to-slate-600 
-    hover:from-slate-700 hover:to-slate-700 
-    text-white no-underline
-    ${clazz}
-  `}
+  class={[
+    'mb-1 inline-block bg-linear-to-b from-slate-500 to-slate-600 px-4 py-1 text-base text-white no-underline hover:from-slate-700 hover:to-slate-700',
+    clazz,
+  ]}
   target={openInNew ? '_blank' : ''}
   {href}
 >

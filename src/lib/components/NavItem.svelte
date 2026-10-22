@@ -8,6 +8,6 @@
   let text = $derived(isActive ? 'text-black bg-white/30' : '');
 </script>
 
-<a {href} class={`inline-block px-4 py-2 font-bold uppercase bg-white/20 hover:bg-white/30 transition-all ${text} ${clazz}`}
+<a {href} class={`inline-block bg-white/20 px-4 py-2 font-bold uppercase transition-all hover:bg-white/30 ${text} ${clazz}`}
   >{@render children()}</a
 >
